@@ -25,7 +25,7 @@ function draw() {
   fill('red')
   ellipse(625,425,300,100)
   // Challenge 3: A house using rect() function
-
+  
   // Challenge 4: A rocketship using triangle() function
 
   // Challenge 5: A square face using quad() function
