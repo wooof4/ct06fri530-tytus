@@ -25,7 +25,7 @@ function draw() {
   //circle(775,300,50)
   //rect(580,325,100,150)
   //triangle(1025,225,250,225,625,0)
-  fill('brown')
+  fill('')
   rect(400,200,100,100)
   // Challenge 4: A rocketship using triangle() function
 
