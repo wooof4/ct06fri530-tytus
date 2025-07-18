@@ -26,6 +26,7 @@ function draw() {
   //rect(580,325,100,150)
   //triangle(1025,225,250,225,625,0)
   fill('white')
+  CSSNumericValue()
   fill('#e3d0bf')
   rect(600,400,100,200)
   quad(600,400,550,300,750,300,700,400)
