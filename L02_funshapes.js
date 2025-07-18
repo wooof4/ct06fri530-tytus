@@ -23,7 +23,7 @@ function draw() {
   circle(525,250,100)
   circle(725,250,100)
   fill('red')
-  ellipse(625.325,100,200)
+  ellipse(625.525,100,200)
   // Challenge 3: A house using rect() function
 
   // Challenge 4: A rocketship using triangle() function
