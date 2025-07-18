@@ -15,9 +15,9 @@ function draw() {
   //fill(0,0,0)
   //ellipse(625,325,25,50)
   // Challenge 2: A face using circle() function
-  fill(0,0,0)
-  circle(625,325,450)
-  circle(400,125,150)
+//  fill(0,0,0)
+  //circle(625,325,450)
+  //circle(400,125,150)
   circle(850,125,150)
   fill('red')
   circle(525,250,100)
