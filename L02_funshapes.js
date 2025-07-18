@@ -30,7 +30,7 @@ function draw() {
   fill('#e3d0bf')
   rect(600,400,100,200)
   quad(600,400,550,300,750,300,700,400)
-  penta(20,10,20,10,20,10,20,10,0,10)
+
   // Challenge 4: A rocketship using triangle() function
 
   // Challenge 5: A square face using quad() function
