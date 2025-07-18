@@ -18,7 +18,7 @@ function draw() {
   //fill(0,0,0)circle(625,325,450)circle(400,125,150)circle(850,125,150)fill('red')circle(525,250,100)
   // circle(725,250,100)fill('red')ellipse(625,425,300,100)
   // Challenge 3: A house using rect() function
-  FilL('red')
+  Fill('red')
   rect(625,325,500,250)
   // Challenge 4: A rocketship using triangle() function
 
