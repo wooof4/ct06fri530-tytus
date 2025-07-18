@@ -19,7 +19,7 @@ function draw() {
   // circle(725,250,100)fill('red')ellipse(625,425,300,100)
   // Challenge 3: A house using rect() function
   fill('red')
-  rect(400,225,500,250)
+  rect(390,215,500,250)
   fill('black')
   circle(500,300,50)
   circle(775,300,50)
