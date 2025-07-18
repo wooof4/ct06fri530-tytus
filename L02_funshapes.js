@@ -27,7 +27,7 @@ function draw() {
   //triangle(1025,225,250,225,625,0)
   fill('#e3d0bf')
   rect(600,400,100,200)
-  quad(600,400,600,300,650,300,650,450)
+  quad(600,400,500,300,650,300,650,450)
   // Challenge 4: A rocketship using triangle() function
 
   // Challenge 5: A square face using quad() function
