@@ -28,7 +28,7 @@ function draw() {
   fill('white')
   circle(650,250,200)
   fill('#e3d0bf')
-  quad(600,400,450,300,650,400,700,400)
+  quad(600,400,450,300,650,400,)
   quad(600,400,550,300,750,300,700,400)
 
   // Challenge 4: A rocketship using triangle() function
