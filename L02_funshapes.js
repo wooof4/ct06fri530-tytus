@@ -18,15 +18,15 @@ function draw() {
   //fill(0,0,0)circle(625,325,450)circle(400,125,150)circle(850,125,150)fill('red')circle(525,250,100)
   // circle(725,250,100)fill('red')ellipse(625,425,300,100)
   // Challenge 3: A house using rect() function
-  fill('red')
-  rect(390,225,500,250)
-  fill('black')
-  circle(500,300,50)
-  circle(775,300,50)
+  //fill('red')
+  //rect(390,225,500,250)
+  //fill('black')
+  //circle(500,300,50)
+  //circle(775,300,50)
   //rect(580,325,100,150)
   //triangle(1025,225,250,225,625,0)
   // Challenge 4: A rocketship using triangle() function
-
+  
   // Challenge 5: A square face using quad() function
 
   // Challenge 6: Add some colours to the drawings in the above challenges
