@@ -20,7 +20,7 @@ function draw() {
   // Challenge 3: A house using rect() function
   fill('red')
   rect(400,225,500,250)
-  
+  triangle(400)
   // Challenge 4: A rocketship using triangle() function
 
   // Challenge 5: A square face using quad() function
