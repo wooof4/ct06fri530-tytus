@@ -11,7 +11,7 @@ for(let i = 0;i <256; i++){
   fill(255-i,0+i,0)
 circle(10*i,400,50)
 }
-for(let i = 0;i <256; i++){
+for(let a = 0;a <256; a++){
   fill(0,255-i,0+i)
 circle(10*i,400,50)
 }
