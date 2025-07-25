@@ -9,7 +9,7 @@ function draw() {
   // Recap 1: Repeating Circles
 let y=200;
 for(let i = 0;i < 11; i++){
-  fill(red)
+  fill(255,0,0)
   circle(300,y,100)
     let y=y+50;
 }
