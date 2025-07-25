@@ -8,7 +8,7 @@ function setup() {
 function draw() {
   // Recap 1: Repeating Circles
 let y=200;
-for(let i = 0;i<11; i ++){
+for(let i = 0;i<11; i++){
   fill(red)
   circle(300,y,100,100)
     let y=y+50
