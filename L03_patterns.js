@@ -8,9 +8,9 @@ function setup() {
 function draw() {
   // Recap 1: Repeating Circles
 let x=100;
-for(let i = 0;i < 31; i++){
+for(let i = 0;i < 11; i++){
   fill("red")
-quad()
+quad(100)
 }
   // Task 1: Colour Gradient
 
