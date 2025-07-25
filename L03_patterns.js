@@ -11,7 +11,7 @@ let y=200;
 for(let i = 0;i<11; i ++){
   fill(red)
   circle(300,y)
-  let y=
+  let y=y+50
 }
   // Task 1: Colour Gradient
 
