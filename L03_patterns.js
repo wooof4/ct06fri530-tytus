@@ -7,7 +7,6 @@ function setup() {
   
 function draw() {
   // Recap 1: Repeating Circles
-let x=100;
 for(let i = 0;i <256; i++){
   fill(255-i,0+i,0)
 circle(10*i,400,50)
