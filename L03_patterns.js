@@ -10,7 +10,7 @@ function draw() {
 let x=100;
 for(let i = 0;i <256; i++){
   fill(255-i,0+i,0)
-circle(50*i,400,150)
+circle(10*i,400,500)
 }
   // Task 1: Colour Gradient
 
