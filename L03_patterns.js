@@ -10,7 +10,7 @@ function draw() {
 let x=100;
 for(let i = 0;i < 11; i++){
   fill("red")
-quad(100)
+quad(100,)
 }
   // Task 1: Colour Gradient
 
