@@ -19,6 +19,9 @@ function draw() {
 //  fill(0+b,0,255-b)
 //circle(5100+10*b,400,50)
 //}
+for (let i=0;i<10; i++){
+  
+}
   // Task 1: Colour Gradient
 
   // Task 2: Colour Loop
