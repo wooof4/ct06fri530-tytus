@@ -25,7 +25,7 @@ for (let i=0;i<10; i++){
     fill(0)
   }
   else{
-    
+    fill(255)
   }
 }
   // Task 1: Colour Gradient
