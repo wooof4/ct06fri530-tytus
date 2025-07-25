@@ -33,6 +33,7 @@ for (let i=0;i<10; i++){
   count+=1
   React(i*boxwidth,j*boxwidth,boxwidth,boxwidth)
 }
+}
   // Task 1: Colour Gradient
 
   // Task 2: Colour Loop
