@@ -11,6 +11,7 @@ let x=100;
 for(let i = 0;i < 31; i++){
   fill("red")
   circle(100*i,400,100)
+  circle(100)
 }
   // Task 1: Colour Gradient
 
