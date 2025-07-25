@@ -22,7 +22,7 @@ function draw() {
 let count = 0;
 for (let i=0;i<10; i++){
   if (count%2==0){
-    
+    fill(0)
   }
 }
   // Task 1: Colour Gradient
