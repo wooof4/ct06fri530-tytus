@@ -1,8 +1,4 @@
-let i = 10;
-let b = 20;
-let c = i+b;
-console.log(c);
-console.log("my answer is " + c)
+
 function setup() {
     createCanvas(600, 400);
     background(220);
