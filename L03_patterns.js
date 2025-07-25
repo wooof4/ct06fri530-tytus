@@ -19,6 +19,7 @@ function draw() {
 //  fill(0+b,0,255-b)
 //circle(5100+10*b,400,50)
 //}
+let numsquares
 let count = 0;
 let boxwidth = width / 5
 for (let i=0;i<10; i++){
