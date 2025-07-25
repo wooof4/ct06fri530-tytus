@@ -29,6 +29,7 @@ for (let i=0;i<10; i++){
     fill(255)
   }
   count+=1
+  React(i)
 }
   // Task 1: Colour Gradient
 
