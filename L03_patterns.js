@@ -22,6 +22,7 @@ function draw() {
 let numsquares = 9
 let count = 0;
 let boxwidth = width / numsquares
+for (let i =0;i<numsquares;)
 for (let i=0;i<10; i++){
   if (count%2==0){
     fill(0)
