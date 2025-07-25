@@ -20,7 +20,7 @@ function draw() {
 //circle(5100+10*b,400,50)
 //}
 let count = 0;
-let boxwidth = width / 2
+let boxwidth = width / 5
 for (let i=0;i<10; i++){
   if (count%2==0){
     fill(0)
