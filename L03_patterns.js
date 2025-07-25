@@ -10,8 +10,8 @@ function draw() {
 let y=200;
 for(let i = 0;i < 11; i++){
   fill(red)
-  circle(300,y,100,100)
-    let y=y+50
+  circle(300,y,100)
+    let y=y+50;
 }
   // Task 1: Colour Gradient
 
