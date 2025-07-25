@@ -23,7 +23,7 @@ let numsquares = 9
 let count = 0;
 let boxwidth = width / numsquares
 for (let i =0;i<numsquares;i++){
-for (let j=0;i<10; j++){
+for (let j=0;j<10; j++){
   if (count%2==0){
     fill(0)
   }
