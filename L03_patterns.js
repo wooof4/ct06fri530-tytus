@@ -24,6 +24,9 @@ for (let i=0;i<10; i++){
   if (count%2==0){
     fill(0)
   }
+  else{
+    
+  }
 }
   // Task 1: Colour Gradient
 
