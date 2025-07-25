@@ -9,7 +9,7 @@ function draw() {
   // Recap 1: Repeating Circles
 let x=100;
 for(let i = 0;i <256; i++){
-  fill(255-1,0+1,0)
+  fill(255-i,0+i,0)
 circle(50*i,400,100)
 }
   // Task 1: Colour Gradient
