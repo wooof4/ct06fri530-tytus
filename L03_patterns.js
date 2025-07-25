@@ -16,7 +16,7 @@ for(let a = 0;a <256; a++){
 circle(2550+10*a,400,50)
 }
 for(let b = 0;b <256; b++){
-  fill(255+b,0,0)
+  fill(0+b,0,255+b)
 circle(5100+10*i,400,50)
 }
   // Task 1: Colour Gradient
