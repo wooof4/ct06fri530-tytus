@@ -8,8 +8,8 @@ function setup() {
 function draw() {
   // Recap 1: Repeating Circles
 let x=100;
-for(let i = 0;i <766; i++){
-  fill(255-1,0+,0)
+for(let i = 0;i <256; i++){
+  fill(255-1,0+1,0)
 circle()
 }
   // Task 1: Colour Gradient
