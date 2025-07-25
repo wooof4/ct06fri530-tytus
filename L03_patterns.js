@@ -1,6 +1,6 @@
 
 function setup() {
-    createCanvas(1500, 800);
+    createCanvas(15000, 800);
     background(220);
     noLoop(); // Stops continuous drawing
   }
@@ -13,7 +13,7 @@ for(let i = 0;i <256; i++){
 circle(10*i,400,50)
 }
 for(let i = 0;i <256; i++){
-  fill(0,255-i,0)
+  fill(0,255-i,0+i)
 circle(10*i,400,50)
 }
   // Task 1: Colour Gradient
