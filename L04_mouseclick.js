@@ -27,8 +27,8 @@ background('light blue')
 //fill(0+i,0+i,0+i)
 //circle(0+i*10,0+i*10,50)
 //}
-fill(shapecolor)
-circle(width/2,height/2,diameter)
+//fill(shapecolor)
+//circle(width/2,height/2,diameter)
 //textSize(28);
 //textAlign(CENTER,CENTER);
 //text('score='+score,width/2,100);
@@ -43,11 +43,11 @@ function mousePressed(){
 function mouseReleased(){
     shapecolor=color(random(255),random(255),random(255));
 }
-function mouseMoved(){
+//function mouseMoved(){
    // fill('black')
     //circle(width/2,height/2,0+mouseY)
     //diameter = mouseY+mouseX;
-}
+//}
 //function mouseDragged(){
 //fill('black')
 //circle(mouseX,mouseY,50)
