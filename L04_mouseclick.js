@@ -32,7 +32,7 @@ circle(width/2,height/2,325)
 
 
 function mousePressed(){
-    shapecolor=';
+    shapecolor='red';
 }
 function mouseReleased(){
     shapecolor='blue';
