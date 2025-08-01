@@ -28,6 +28,7 @@ function draw() {
 fill(shapecolor)
 circle(width/2,height/2,325)
 textsize(28)
+textalign(center)
 text('score='+score,width/2,1000)
 }
 
