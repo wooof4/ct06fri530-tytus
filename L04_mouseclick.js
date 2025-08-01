@@ -2,7 +2,7 @@ let shapecolor='blue';
 let score=0;
 // write your codes here
 function setup() {
-    createCanvas(1500,650);
+    createCanvas(1000,650);
     background(220);
    // noLoop(); // Stops continuous drawing
   }
