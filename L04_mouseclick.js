@@ -46,8 +46,8 @@ function mouseReleased(){
     //fill(shapecolor)
     //circle(mouseX,mouseY,1)
 //}
-function mouseDragged(){
-    FileList('black')
-circle(mouseX,mouseY,50)
+//function mouseDragged(){
+//fill('black')
+//circle(mouseX,mouseY,50)
 
-}
+//}
