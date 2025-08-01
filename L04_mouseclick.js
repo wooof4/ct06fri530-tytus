@@ -44,7 +44,7 @@ function mouseReleased(){
 }
 function mouseMoved(){
     fill(blue)
-    circle(width/2,height/2,0+(mouseX+mouseY))
+    circle(width/2,height/2,0+mouseY)
 }
 //function mouseDragged(){
 //fill('black')
