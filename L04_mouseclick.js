@@ -42,3 +42,6 @@ function mousePressed(){
 function mouseReleased(){
     shapecolor=color(random(255),random(255),random(255));
 }
+function mouseMoved(){
+    
+}
