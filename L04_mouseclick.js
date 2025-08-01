@@ -4,7 +4,7 @@ function setup() {
     background(220);
     noLoop(); // Stops continuous drawing
   }
-  
+  let shapecolor='blue'
 function draw() {
 // Recap 1: Repeating Circles
 //for(let i = 0;i <256; i++){
