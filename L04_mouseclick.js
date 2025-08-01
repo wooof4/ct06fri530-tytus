@@ -4,7 +4,7 @@ let shapecolor='blue';
 function setup() {
     createCanvas(1500,650);
     background(220);
-    noLoop(); // Stops continuous drawing
+   // noLoop(); // Stops continuous drawing
   }
   
 function draw() {
