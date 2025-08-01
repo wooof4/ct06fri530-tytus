@@ -21,7 +21,7 @@ function draw() {
 //}
 for(let i =0;i<256; i++){
 Fill(0,0+i,0)
-circle(0,)
+circle(0+i,325,100)
 
 
 
