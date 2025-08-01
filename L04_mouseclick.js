@@ -20,8 +20,8 @@ function draw() {
 //circle(5100+10*b,400,50)
 //}
 for(let i =0;i<256; i++){
-Fill(0,0,0)
-circle()
+Fill(0,0+i,0)
+circle(0)
 
 
 
