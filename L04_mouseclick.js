@@ -1,5 +1,5 @@
 let shapecolor='blue';
-
+let score=0;
 // write your codes here
 function setup() {
     createCanvas(1500,650);
