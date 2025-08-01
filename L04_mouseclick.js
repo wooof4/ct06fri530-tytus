@@ -24,5 +24,5 @@ function draw() {
 //circle(0+i*10,0+i*10,50)
 //}
 fill(shapecolor)
-
+circle(width/2)
 }
