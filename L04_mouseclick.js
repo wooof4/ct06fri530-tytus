@@ -50,6 +50,6 @@ function mouseReleased(){
 //}
 function mouseDragged(){
 fill('black')
-circle(mouseX+random(10),mouseY,150)
+circle(mouseX+random(10),mouseY+random(10),Random)
 
 }
