@@ -9,7 +9,7 @@ function setup() {
   }
   
 function draw() {
-background('light blue')
+//background('light blue')
 // Recap 1: Repeating Circles
 //for(let i = 0;i <256; i++){
 //fill(255-i,0+i,0)
@@ -50,6 +50,6 @@ function mouseReleased(){
 //}
 function mouseDragged(){
 fill('black')
-circle(mouseX,mouseY,50)
+circle(mouseX,mouseY,150)
 
 }
