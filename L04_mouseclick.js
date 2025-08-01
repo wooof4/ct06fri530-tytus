@@ -32,5 +32,5 @@ circle(width/2,height/2,325)
 
 
 function mousePressd(){
-    shapecolor()
+    shapecolor='red';
 }
