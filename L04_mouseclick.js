@@ -35,5 +35,5 @@ function mousePressed(){
     shapecolor=color(random(255),random(255),random(255));
 }
 function mouseReleased(){
-    shapecolor='blue';
+    shapecolor=color(random(255),random(255),random(255));
 }
