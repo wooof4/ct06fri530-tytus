@@ -44,8 +44,9 @@ function mouseReleased(){
     shapecolor=color(random(255),random(255),random(255));
 }
 function mouseMoved(){
-    fill('black')
-    circle(width/2,height/2,0+mouseY)
+   // fill('black')
+    //circle(width/2,height/2,0+mouseY)
+    diameter = mouseY;
 }
 //function mouseDragged(){
 //fill('black')
