@@ -1,6 +1,6 @@
 // write your codes here
 function setup() {
-    createCanvas(15000, 650);
+    createCanvas(2000, 650);
     background(220);
     noLoop(); // Stops continuous drawing
   }
@@ -21,6 +21,6 @@ function draw() {
 //}
 for(let i =0;i<256; i++){
 fill(0,0+i,0)
-circle(0+i*100,325,10)
+circle(0+i*10,325,10)
 }
 }
