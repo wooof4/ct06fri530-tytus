@@ -49,7 +49,7 @@ function mouseReleased(){
     //diameter = mouseY+mouseX;
 //}
 function mouseDragged(){
-fill(random(255))
+fill(random(255),random(255),random)
 circle(mouseX+random(10),mouseY+random(10),random(50))
 
 }
