@@ -27,9 +27,9 @@ function draw() {
 //}
 fill(shapecolor)
 circle(width/2,height/2,325)
-textSize(28)
-textAlign(CENTER,CENTER)
-text('score='+score,width/2,1000)
+textSize(28);
+textAlign(CENTER,CENTER);
+text('score='+score,width/2,100);
 }
 
 
