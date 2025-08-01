@@ -28,7 +28,7 @@ background('light blue')
 //circle(0+i*10,0+i*10,50)
 //}
 fill(shapecolor)
-circle(width/2,height/2,325)
+circle(width/2,height/2,diameter)
 //textSize(28);
 //textAlign(CENTER,CENTER);
 //text('score='+score,width/2,100);
