@@ -47,6 +47,7 @@ function mouseReleased(){
     //circle(mouseX,mouseY,1)
 //}
 function mouseDragged(){
+    FileList('black')
 circle(mouseX,mouseY,50)
 
 }
