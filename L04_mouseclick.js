@@ -44,5 +44,5 @@ function mouseReleased(){
 }
 function mouseMoved(){
     fill(shapecolor)
-    circle(mouseX,mouseY,100)
+    circle(mouseX,mouseY,1)
 }
