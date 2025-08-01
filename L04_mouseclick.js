@@ -47,6 +47,6 @@ function mouseReleased(){
     //circle(mouseX,mouseY,1)
 //}
 function mouseDragged(){
-circle(mousex,mouseY)
+circle(mouseX,mouseY,50)
 
 }
