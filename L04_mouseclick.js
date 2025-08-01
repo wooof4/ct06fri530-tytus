@@ -26,11 +26,11 @@ function draw() {
 //fill(0+i,0+i,0+i)
 //circle(0+i*10,0+i*10,50)
 //}
-fill(shapecolor)
+//fill(shapecolor)
 //circle(width/2,height/2,325)
 //textSize(28);
-textAlign(CENTER,CENTER);
-text('score='+score,width/2,100);
+//textAlign(CENTER,CENTER);
+//text('score='+score,width/2,100);
 }
 
 
