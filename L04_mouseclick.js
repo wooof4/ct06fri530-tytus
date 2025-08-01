@@ -56,7 +56,7 @@ circle(mouseX+random(100),mouseY+random(100),random(25))
 fill(random(255),random(255),random(255))
 circle(mouseX+random(100),mouseY+random(100),random(25))
 fill(random(255),random(255),random(255))
-circle(mouseX+random(100),mouseY+random(100),random(25))
+circle(mouseX+random(50),mouseY+random(50),random(25))
 fill(random(255),random(255),random(255))
 circle(mouseX+random(50),mouseY+random(50),random(25))
 }
