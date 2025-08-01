@@ -48,8 +48,8 @@ function mouseReleased(){
     //circle(width/2,height/2,0+mouseY)
     //diameter = mouseY+mouseX;
 //}
-//function mouseDragged(){
-//fill('black')
-//circle(mouseX,mouseY,50)
+function mouseDragged(){
+fill('black')
+circle(mouseX,mouseY,50)
 
-//}
+}
