@@ -42,10 +42,10 @@ function mousePressed(){
 function mouseReleased(){
     shapecolor=color(random(255),random(255),random(255));
 }
-//function mouseMoved(){
-    //fill(shapecolor)
-    //circle(mouseX,mouseY,1)
-//}
+function mouseMoved(){
+    fill(shapecolor)
+    circle(mouseX,mouseY,1)
+}
 //function mouseDragged(){
 //fill('black')
 //circle(mouseX,mouseY,50)
