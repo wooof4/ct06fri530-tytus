@@ -34,7 +34,7 @@ text('score='+score,width/2,100)
 
 function mousePressed(){
     shapecolor=color(random(255),random(255),random(255));
-    
+    score+=1;
 }
 function mouseReleased(){
     shapecolor=color(random(255),random(255),random(255));
