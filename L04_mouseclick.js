@@ -27,7 +27,8 @@ function draw() {
 //}
 fill(shapecolor)
 circle(width/2,height/2,325)
-text('score='+score,width/2,100)
+textsize
+text('score='+score,width/2,1000)
 }
 
 
