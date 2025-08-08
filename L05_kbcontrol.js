@@ -20,4 +20,7 @@ moveY = moveY-10;
 else if (key==='s'){
 moveY = moveY+10;
 }
+else if (key==='a'){
+    
+}
 }
