@@ -8,7 +8,7 @@ function setup() {
     background(220);
    // noLoop(); // Stops continuous drawing
   }
-  
+  noStroke()
 
 
 
@@ -42,4 +42,3 @@ fill(shapecolor)
 circle(mouseY,mouseY,s=s+2);
 
 }
-noStroke()
