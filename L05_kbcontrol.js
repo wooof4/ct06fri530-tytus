@@ -22,7 +22,9 @@ function draw(){
     else if (keyIsDown(68)){
         moveX=moveX+10;
     }
-    else if(keyIsDown(63))
+    else if(keyIsDown(63)){
+        moveX=moveX-10
+    }
 }
 
 // function keyPressed(){
