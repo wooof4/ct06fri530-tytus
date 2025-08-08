@@ -15,9 +15,9 @@ function mousePressed(){
 // function mouseReleased(){
 //     shapecolor=color(random(255),random(255),random(255));
 // }
-function mouseMoved(){
-s=s+50;
-}
+// function mouseMoved(){
+// s=s+50;
+// }
 
 function mouseDragged(){
 fill(shapecolor)
