@@ -13,20 +13,6 @@ fill(0,0,0)
 rect(width/2+moveX,height/2+moveY,10,10)
 }
 
-function keyIsDown(){
-if (keyCode===87){
-moveY = moveY-10;
-}
-else if (keyCode===83){
-moveY = moveY+10;
-}
-else if (key==='a'){
-moveX = moveX-10;
-}
-else if (key==='d'){
-moveX = moveX+10;
-}
-}
 function keyPressed(){
 if (key==='w'){
 moveY = moveY-10;
