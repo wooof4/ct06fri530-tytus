@@ -1,7 +1,7 @@
 // write your codes here
 let moveY=0;
 function setup() {
-    createCanvas(1200,650);
+    createCanvas(600,400);
     background(220);
    // noLoop(); // Stops continuous drawing
   }
