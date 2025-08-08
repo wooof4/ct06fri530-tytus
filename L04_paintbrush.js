@@ -8,9 +8,9 @@ function setup() {
     background(220);
    // noLoop(); // Stops continuous drawing
   }
-  noStroke()
-
-
+function draw(){
+    
+}
 
 
 function mousePressed(){
