@@ -17,7 +17,7 @@ function draw(){
         moveY=moveY+1;
     }
     if (keyIsDown(87)){
-        moveY=moveY+1;
+        moveY=moveY-1;
     }
 }
 
