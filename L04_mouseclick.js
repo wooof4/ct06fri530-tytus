@@ -21,5 +21,5 @@ s=s+50;
 
 function mouseDragged(){
 fill(shapecolor)
-circle(mouseX,mouseY,s)
+circle(mouseX,mouseY,s+5)
 }
