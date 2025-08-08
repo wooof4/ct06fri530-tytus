@@ -41,6 +41,6 @@ function mouseDragged(){
 // fill(random(255),random(255),random(255))
 // circle(mouseX+random(50),mouseY+random(50),random(25))
 fill(shapecolor)
-circle(mouseY,mouseY,s=s+2);
+circle(width/2,mouseY,s=s+2);
 
 }
