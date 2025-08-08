@@ -12,7 +12,7 @@ noStroke()
 fill(0,0,0)
 rect(width/2+moveX,height/2+moveY,10,10)
 if (keyIsDown('w')){
-moveY=moveY+10   
+moveY=moveY+10;  
 }
 }
 
