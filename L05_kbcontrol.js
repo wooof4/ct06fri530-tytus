@@ -16,6 +16,7 @@ function draw(){
     if (keyIsDown(83)){
         moveY=moveY+1;
     }
+
 }
 
 // function keyPressed(){
