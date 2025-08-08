@@ -40,9 +40,9 @@ function mousePressed(){
     shapecolor=color(random(255),random(255),random(255));
     score+=1;
 }
-function mouseReleased(){
-    shapecolor=color(random(255),random(255),random(255));
-}
+// function mouseReleased(){
+//     shapecolor=color(random(255),random(255),random(255));
+// }
 //function mouseMoved(){
    // fill('black')
     //circle(width/2,height/2,0+mouseY)
@@ -59,5 +59,5 @@ function mouseDragged(){
 // circle(mouseX+random(50),mouseY+random(50),random(25))
 // fill(random(255),random(255),random(255))
 // circle(mouseX+random(50),mouseY+random(50),random(25))
-
+circle()
 }
