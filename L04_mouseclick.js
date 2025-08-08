@@ -3,6 +3,7 @@ let score=0;
 let diameter = 0;
 let s = 10;
 // write your codes here
+
 function setup() {
     createCanvas(1000,650);
     background(220);
