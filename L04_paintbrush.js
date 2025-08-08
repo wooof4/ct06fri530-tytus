@@ -16,6 +16,8 @@ function draw(){
 function mousePressed(){
     shapecolor=color(random(255),random(255),random(255));
     score+=1;
+    fill(shapecolor)
+circle(mouseY,mouseY,s=s+2);
 }
 // function mouseReleased(){
 //     shapecolor=color(random(255),random(255),random(255));
