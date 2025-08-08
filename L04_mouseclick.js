@@ -8,11 +8,6 @@ function setup() {
     background(220);
    // noLoop(); // Stops continuous drawing
   }
-  
-
-
-
-
 function mousePressed(){
     shapecolor=color(random(255),random(255),random(255));
     score+=1;
