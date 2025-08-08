@@ -2,7 +2,7 @@
 let moveY=100;
 let moveX=100;
 function setup() {
-    createCanvas(1200,400);
+    createCanvas(1200,600);
     background(220);
    // noLoop(); // Stops continuous drawing
   }
