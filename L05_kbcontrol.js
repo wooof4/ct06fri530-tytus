@@ -1,5 +1,5 @@
 // write your codes here
-
+let moveY=1
 function setup() {
     createCanvas(1200,650);
     background(220);
