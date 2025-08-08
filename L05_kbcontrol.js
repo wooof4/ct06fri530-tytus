@@ -11,7 +11,7 @@ function draw(){
     noStroke()
     fill(0,0,0)
     // rect(width/2+moveX,height/2+moveY,10,10)
-    rect
+    
     rect(moveX,moveY,10,10)
 
     if (keyIsDown(83)){
