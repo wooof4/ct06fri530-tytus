@@ -1,6 +1,6 @@
 // write your codes here
-let moveY=600;
-let moveX=300;
+let moveY=300;
+let moveX=600;
 function setup() {
     createCanvas(1200,600);
     background(220);
@@ -14,7 +14,7 @@ function draw(){
     rect(moveX,moveY,10,10)
 
     if (keyIsDown(83)){
-        moveY=moveY+10;
+        moveY=moveY+1;
     }
     else if (keyIsDown(87)){
         moveY=moveY-10;
