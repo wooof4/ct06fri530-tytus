@@ -1,5 +1,6 @@
 // write your codes here
 let moveY=0;
+let moveX=0;
 function setup() {
     createCanvas(1280,640);
     background(220);
