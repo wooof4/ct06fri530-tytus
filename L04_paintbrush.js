@@ -4,7 +4,7 @@ let diameter = 0;
 let s = 10;
 // write your codes here
 function setup() {
-    createCanvas(1000,650);
+    createCanvas(1500,650);
     background(220);
    // noLoop(); // Stops continuous drawing
   }
@@ -39,6 +39,6 @@ function mouseDragged(){
 // fill(random(255),random(255),random(255))
 // circle(mouseX+random(50),mouseY+random(50),random(25))
 fill(shapecolor)
-circle(mouseY,mouseY,s=s+0.5);
+circle(,mouseY,s=s+2);
 
 }
