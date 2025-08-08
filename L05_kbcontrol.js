@@ -8,9 +8,9 @@ function setup() {
 function draw(){
 noStroke()
 fill(0,0,0)
-rect(width/2,height/2+moveY,100,100)
+rect(width/2,height/2+moveY,10,10)
 }
 
 function keyPressed(){
-moveY+100;
+moveY = moveY+100;
 }
