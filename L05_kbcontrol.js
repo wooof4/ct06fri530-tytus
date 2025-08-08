@@ -7,9 +7,10 @@ function setup() {
   }
 function draw(){
 noStroke()
+fill(0,0,0)
+rect(width/2,height/2,)
 }
 
 function keyPressed(){
-fill(0,0,0)
-rect(width/2,height/2,)
+
 }
