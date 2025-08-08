@@ -21,6 +21,9 @@ else if (key==='s'){
 moveY = moveY+10;
 }
 else if (key==='a'){
-    
+moveX = moveX-10
+}
+else if (key==='a'){
+moveX = moveX-10
 }
 }
