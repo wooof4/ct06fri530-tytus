@@ -11,7 +11,9 @@ function draw(){
 noStroke()
 fill(0,0,0)
 rect(width/2+moveX,height/2+moveY,10,10)
-If
+if (keyIsDown('w')){
+    
+}
 }
 
 function keyPressed(){
