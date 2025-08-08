@@ -14,7 +14,7 @@ rect(width/2+moveX,height/2+moveY,10,10)
 }
 
 function keyDown(){
-if (key==='w'){
+if (keyCode===87){
 moveY = moveY-10;
 }
 else if (key==='s'){
