@@ -16,5 +16,7 @@ function keyPressed(){
 if (key==='w'){
 moveY = moveY-10;
 }
-else if (key==='s'){}
+else if (key==='s'){
+
+}
 }
