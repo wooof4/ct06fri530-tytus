@@ -17,7 +17,7 @@ function keyDown(){
 if (keyCode===87){
 moveY = moveY-10;
 }
-else if (key==='s'){
+else if (key===83){
 moveY = moveY+10;
 }
 else if (key==='a'){
