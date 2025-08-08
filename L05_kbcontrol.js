@@ -2,7 +2,7 @@
 let moveY=100;
 let moveX=100;
 function setup() {
-    createCanvas(600,400);
+    createCanvas(1200,400);
     background(220);
    // noLoop(); // Stops continuous drawing
   }
@@ -22,6 +22,7 @@ function draw(){
     else if (keyIsDown(68)){
         moveX=moveX+10;
     }
+
 }
 
 // function keyPressed(){
