@@ -15,6 +15,6 @@ rect(width/2,height/2+moveY,10,10)
 function keyPressed(){
 if (key==='w'){
 moveY = moveY-10;
-
-} 
+}
+else if (key==='s'){}
 }
