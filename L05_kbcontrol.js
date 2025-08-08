@@ -9,5 +9,6 @@ noStroke()
 }
 
 function keyPressed(){
-fill()
+fill(0,0,0)
+rect()
 }
