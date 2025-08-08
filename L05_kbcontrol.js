@@ -5,9 +5,9 @@ function setup() {
    // noLoop(); // Stops continuous drawing
   }
 function draw(){
-    
+noStroke()
 }
-noStroke
+
 function keyPressed(){
 f
 }
