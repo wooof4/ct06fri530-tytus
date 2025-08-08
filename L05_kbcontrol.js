@@ -10,5 +10,5 @@ noStroke()
 
 function keyPressed(){
 fill(0,0,0)
-rect()
+rect(width/2,height/2,)
 }
