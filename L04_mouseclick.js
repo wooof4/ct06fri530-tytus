@@ -43,11 +43,12 @@ function mousePressed(){
 // function mouseReleased(){
 //     shapecolor=color(random(255),random(255),random(255));
 // }
-//function mouseMoved(){
-   // fill('black')
-    //circle(width/2,height/2,0+mouseY)
-    //diameter = mouseY+mouseX;
-//}
+function mouseMoved(){
+       fill('black')
+           circle(width/2,height/2,0+mouseY)
+               diameter = mouseY+mouseX;
+             }
+
 function mouseDragged(){
 // fill(random(255),random(255),random(255))
 // circle(mouseX+random(50),mouseY+random(50),random(25))
