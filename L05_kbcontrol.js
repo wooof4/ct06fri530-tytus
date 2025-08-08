@@ -20,7 +20,7 @@ function draw(){
         moveY=moveY-1;
     }
     else if (keyIsDown(68)){
-        moveX=moveX;
+        moveX=moveX+10;
     }
 }
 
