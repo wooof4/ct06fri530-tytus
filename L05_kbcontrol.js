@@ -24,7 +24,7 @@ function draw(){
         moveX=moveX+1000;
     }
     else if (keyIsDown(65)){
-        moveX=moveX-100;
+        moveX=moveX-1000;
     }
 }
 
