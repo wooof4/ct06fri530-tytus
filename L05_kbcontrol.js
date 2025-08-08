@@ -12,5 +12,5 @@ rect(width/2,height/2+moveY,100,100)
 }
 
 function keyPressed(){
-moveY+10;
+moveY+100;
 }
