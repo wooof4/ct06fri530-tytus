@@ -13,7 +13,7 @@ fill(0,0,0)
 rect(width/2+moveX,height/2+moveY,10,10)
 }
 
-function keyDown(){
+function keyIsDown(){
 if (keyCode===87){
 moveY = moveY-10;
 }
