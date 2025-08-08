@@ -18,13 +18,13 @@ function draw(){
         moveY=moveY+10;
     }
     else if (keyIsDown(87)){
-        moveY=moveY-1;
+        moveY=moveY-10;
     }
     else if (keyIsDown(68)){
-        moveX=moveX+1;
+        moveX=moveX+10;
     }
     else if (keyIsDown(65)){
-        moveX=moveX-1
+        moveX=moveX-10;
     }
 }
 
