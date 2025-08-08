@@ -16,7 +16,7 @@ function mousePressed(){
 //     shapecolor=color(random(255),random(255),random(255));
 // }
 function mouseMoved(){
-
+s=s+0.5
 }
 
 function mouseDragged(){
