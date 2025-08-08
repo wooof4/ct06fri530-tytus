@@ -47,7 +47,7 @@ function mouseMoved(){
 //    fill('black')
 //        circle(width/2,height/2,0+mouseY)
 //            diameter = mouseY+mouseX;
-let p=10;
+let =10;
 }
 
 function mouseDragged(){
