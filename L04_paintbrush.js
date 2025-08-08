@@ -4,7 +4,7 @@ let diameter = 0;
 let s = 10;
 // write your codes here
 function setup() {
-    createCanvas(1200,650);
+    createCanvas(12 00,650);
     background(220);
    // noLoop(); // Stops continuous drawing
   }
@@ -17,7 +17,7 @@ function mousePressed(){
     shapecolor=color(random(255),random(255),random(255));
     score+=1;
     fill(shapecolor)
-circle(mouseY,mouseY,s=s+2);
+circle(width/2,mouseY,s=s+2);
 }
 // function mouseReleased(){
 //     shapecolor=color(random(255),random(255),random(255));
