@@ -39,7 +39,7 @@ function draw(){
         moveY=0;
         soundpop.play();
     }
-    if (moveX>=400){
+    if (moveX>=1200){
         moveX=400-30;
         soundpop.play();
     }
