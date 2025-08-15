@@ -16,10 +16,10 @@ function draw(){
     if (keyIsDown('w')){
         moveY=moveY+100;
     }
-    else if (keyIsDown('w')){
+    else if (keyIsDown('s')){
         moveY=moveY-100;
     }
-    else if (keyIsDown(68)){
+    else if (keyIsDown('a')){
         moveX=moveX+100;
     }
     else if (keyIsDown(65)){
