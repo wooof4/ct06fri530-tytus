@@ -17,7 +17,7 @@ soundpop.play();
 }
 function draw(){
     background('lightblue')
-    image(picoImg,moveX,moveY,110,133)
+    image(picoImg,moveX-40,moveY,110,133)
     image(picoImg,moveX-30,moveY-30,110,133)
     image(picoImg,moveX-20,moveY,110,133)
     image(picoImg,600,350,110,133)
