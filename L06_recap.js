@@ -6,12 +6,12 @@ function setup() {
    // noLoop(); // Stops continuous drawing
   }
 function draw(){
-     background('light blue')
+    /
     noStroke()
     fill(0,0,0)
     // rect(width/2+moveX,height/2+moveY,10,10)
     
-    rect(moveX,moveY,100,10)
+    rect(moveX,moveY,100,100 )
 
     if (keyIsDown('w')){
         moveY=moveY+100;
