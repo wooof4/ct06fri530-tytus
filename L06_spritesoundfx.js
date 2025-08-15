@@ -13,7 +13,7 @@ function setup(){
 bgmusic.loop();
 }
 function mousePressed(){
-soundpop.play
+soundpop.play();
 }
 function draw(){
     background('lightblue')
