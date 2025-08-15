@@ -9,5 +9,5 @@ background('lightblue')
 }
 
 function draw(){
-
+    image 
 }
