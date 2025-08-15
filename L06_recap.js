@@ -27,15 +27,15 @@ function draw(){
     }
 
     if (moveY===400){
-        moveY=moveY-10;
+        moveY=moveY-100;
 }
     if (moveY===0){
-        moveY=moveY+10;
+        moveY=moveY+100;
 }
     if (moveX===400){
-        moveX=moveX-10;
+        moveX=moveX-100;
 }
     if (moveX===0){
-        moveX=moveX+10;
+        moveX=moveX+100;
 }
 }
