@@ -6,7 +6,7 @@ function setup() {
     //noLoop(); // Stops continuous drawing
   }
 function draw(){
-  //background('light blue')
+  background('light blue')
     noStroke()
     fill(0,0,0)
     // rect(width/2+moveX,height/2+moveY,10,10)
