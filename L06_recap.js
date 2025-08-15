@@ -27,5 +27,5 @@ function draw(){
     }
 }
 if (moveY===400){
-    moveX=movex+10;
+    moveX=moveX+10;
 }
