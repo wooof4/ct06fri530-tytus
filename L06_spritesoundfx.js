@@ -1,5 +1,5 @@
 // write your codes here
-let picoImg;
+let picoImg,bgmusic;
 function preload(){
     picoImg=loadImage('assets/pico-a.png');
 }
