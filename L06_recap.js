@@ -32,10 +32,10 @@ if (moveY===400){
 if (moveY===0){
     moveY=moveY+10;
 }
-if (moveX===400){
+    if (moveX===400){
     moveX=moveX-10;
 }
-if (moveX===0){
-    moveX=moveX+10;
+    if (moveX===0){
+        moveX=moveX+10;
 }
 }
