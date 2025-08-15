@@ -31,4 +31,17 @@ function draw(){
     if (keyIsDown(65)){
         moveX=moveX-10;
     }
+        if (moveY >= 400){
+        moveY=400-30;
+    }
+    if (moveY<=0){
+        moveY=0;
+        pl
+    }
+    if (moveX>=400){
+        moveX=400-30;
+    }
+    if (moveX<=0){
+        moveX=0;
+    }
 }
