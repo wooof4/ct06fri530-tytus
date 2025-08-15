@@ -5,6 +5,7 @@ let picoImg,bgmusic,soundpop;
 function preload(){
     picoImg=loadImage('assets/pico-a.png');
     bgmusic=loadSound('assets/bossaNova.mp3')
+    soundpop=loadSound()
 }
 function setup(){
     createCanvas(1200,700)
