@@ -3,10 +3,10 @@ let moveX=200;
 function setup() {
     createCanvas(400,400);
    // background(220);
-    noLoop(); // Stops continuous drawing
+    //noLoop(); // Stops continuous drawing
   }
 function draw(){
-  background('light blue')
+  //background('light blue')
     noStroke()
     fill(0,0,0)
     // rect(width/2+moveX,height/2+moveY,10,10)
