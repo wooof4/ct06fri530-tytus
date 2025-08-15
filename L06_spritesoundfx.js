@@ -9,5 +9,5 @@ background('lightblue')
 }
 
 function draw(){
-    image(picoImg,600,350,110,0.01)
+    image(picoImg,600,350,110,10000)
 }
