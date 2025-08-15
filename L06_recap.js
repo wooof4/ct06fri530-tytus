@@ -36,6 +36,6 @@ function draw(){
         moveX=moveX-1;
 }
     if (moveX===0){
-        moveX=moveX+1;
+        moveX=0;
 }
 }
