@@ -26,3 +26,6 @@ function draw(){
         moveX=moveX-10;
     }
 }
+if (moveY===400){
+    
+}
