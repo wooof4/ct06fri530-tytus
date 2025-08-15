@@ -14,15 +14,15 @@ function draw(){
     rect(moveX,moveY,100,100 )
 
     if (keyIsDown('w')){
-        moveY=moveY+100;
+        moveY=moveY+10;
     }
     else if (keyIsDown('s')){
-        moveY=moveY-100;
+        moveY=moveY-10;
     }
     else if (keyIsDown('a')){
-        moveX=moveX+100;
+        moveX=moveX+10;
     }
     else if (keyIsDown('d')){
-        moveX=moveX-100;
+        moveX=moveX-10;
     }
 }
