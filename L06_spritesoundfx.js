@@ -36,7 +36,7 @@ function draw(){
     }
     if (moveY<=0){
         moveY=0;
-        pl
+        
     }
     if (moveX>=400){
         moveX=400-30;
