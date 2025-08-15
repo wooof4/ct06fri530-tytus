@@ -7,7 +7,7 @@ function setup() {
   }
 function draw(){
     //background('light blue')
-    noStroke()
+    //noStroke()
     fill(0,0,0)
     // rect(width/2+moveX,height/2+moveY,10,10)
     
