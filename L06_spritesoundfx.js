@@ -11,7 +11,7 @@ function setup(){
 background('lightblue')
 bgmusic.loop();
 }
-
+function mousePressed(){}
 function draw(){
     image(picoImg,moveX,moveY,110,133)
 
