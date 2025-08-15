@@ -4,5 +4,5 @@ function preload(){
 
 }
 function setup(){
-    cre
+    createCanvas
 }
