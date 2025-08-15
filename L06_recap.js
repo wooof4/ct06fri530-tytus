@@ -1,5 +1,5 @@
-let moveY=300;
-let moveX=600;
+let moveY=200;
+let moveX=200;
 function setup() {
     createCanvas(400,400);
    // background(220);
