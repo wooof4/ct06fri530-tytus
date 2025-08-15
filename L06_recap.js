@@ -29,4 +29,7 @@ function draw(){
 if (moveY===400){
     moveY=moveY-10;
 }
+if (moveY===0){
+    moveY=moveY+10;
+}
 }
