@@ -13,10 +13,10 @@ function draw(){
     
     rect(moveX,moveY,10,10)
 
-    if (keyIsDown(83)){
+    if (keyIsDown('w')){
         moveY=moveY+100;
     }
-    else if (keyIsDown(87)){
+    else if (keyIsDown('w')){
         moveY=moveY-100;
     }
     else if (keyIsDown(68)){
