@@ -48,9 +48,11 @@ function draw(){
     if (moveX>=1200){
         moveX=1200-133;
         soundpop.play();
+        background('red')
     }
     if (moveX<=0){
         moveX=0;
         soundpop.play();
+        background('red')
     }
 }
