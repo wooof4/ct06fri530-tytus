@@ -23,17 +23,17 @@ function draw(){
         moveX=moveX+1;
     }
     if (keyIsDown(65)){
-        moveX=moveX-1;
+        moveX=moveX-100;
     }
 
     if (moveY===400){
-        moveY=moveY-1;
+        moveY=400;
 }
     if (moveY===0){
-        moveY=moveY+1;
+        moveY=0;
 }
     if (moveX===400){
-        moveX=moveX-1;
+        moveX=400;
 }
     if (moveX===0){
         moveX=0;
