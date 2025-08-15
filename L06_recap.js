@@ -16,7 +16,7 @@ function draw(){
     if (keyIsDown(83)){
         moveY=moveY+10;
     }
-    else if (keyIsDown(87)){
+    if (keyIsDown(87)){
         moveY=moveY-10;
     }
     if (keyIsDown(68)){
