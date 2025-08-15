@@ -32,7 +32,7 @@ function draw(){
         moveX=moveX-10;
     }
         if (moveY >= 700){
-        moveY=700-133;
+        moveY=700-110;
         soundpop.play();
     }
     if (moveY<=0){
