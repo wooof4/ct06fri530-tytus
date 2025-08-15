@@ -11,7 +11,7 @@ function draw(){
     fill(0,0,0)
     // rect(width/2+moveX,height/2+moveY,10,10)
     
-    rect(moveX,moveY,10,10)
+    rect(moveX,moveY,100,10)
 
     if (keyIsDown('w')){
         moveY=moveY+100;
@@ -22,7 +22,7 @@ function draw(){
     else if (keyIsDown('a')){
         moveX=moveX+100;
     }
-    else if (keyIsDown(65)){
+    else if (keyIsDown('d')){
         moveX=moveX-100;
     }
 }
