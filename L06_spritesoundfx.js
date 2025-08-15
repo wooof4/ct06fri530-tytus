@@ -1,18 +1,21 @@
 // write your codes here
 let moveY=200;
 let moveX=200;
-let picoImg,bgmusic;
+let picoImg,bgmusic,soundpop;
 function preload(){
     picoImg=loadImage('assets/pico-a.png');
     bgmusic=loadSound('assets/bossaNova.mp3')
 }
 function setup(){
     createCanvas(1200,700)
-background('lightblue')
+
 bgmusic.loop();
 }
-function mousePressed(){}
+function mousePressed(){
+
+}
 function draw(){
+    background('lightblue')
     image(picoImg,moveX,moveY,110,133)
 
      if (keyIsDown(83)){
