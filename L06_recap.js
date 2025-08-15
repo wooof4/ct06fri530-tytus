@@ -19,10 +19,10 @@ function draw(){
     else if (keyIsDown(87)){
         moveY=moveY-10;
     }
-    else if (keyIsDown(68)){
+    if (keyIsDown(68)){
         moveX=moveX+10;
     }
-    else if (keyIsDown(65)){
+    if (keyIsDown(65)){
         moveX=moveX-10;
     }
 
