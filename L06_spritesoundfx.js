@@ -18,7 +18,7 @@ soundpop.play();
 function draw(){
     background('lightblue')
     image(picoImg,moveX,moveY,110,133)
-    image(picoImg,moveX,,110,133)
+    image(picoImg,600,350,110,133)
 
      if (keyIsDown(83)){
         moveY=moveY+10;
