@@ -2,7 +2,7 @@
 let picoImg,bgmusic;
 function preload(){
     picoImg=loadImage('assets/pico-a.png');
-    bgmusic=loadSound('asset')
+    bgmusic=loadSound('asset/bossaNova.mp3')
 }
 function setup(){
     createCanvas(1200,700)
@@ -11,4 +11,5 @@ background('lightblue')
 
 function draw(){
     image(picoImg,600,350,110,133)
+    
 }
