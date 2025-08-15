@@ -1,7 +1,7 @@
 // write your codes here
 let picoImg;
 function preload(){
-    picoImg=loadImage('assets/pico.png');
+    picoImg=loadImage('assets/pico-a.png');
 }
 function setup(){
     createCanvas(1200,700)
@@ -9,5 +9,5 @@ background('lightblue')
 }
 
 function draw(){
-    image(picoImg,200,100,110,133)
+    image(picoImg,200,100,110,33)
 }
