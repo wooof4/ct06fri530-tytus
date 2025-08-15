@@ -13,7 +13,7 @@ bgmusic.loop();
 }
 
 function draw(){
-    image(picoImg,600,350,moveX,moveY)
+    image(picoImg,moveX,moveY,600,350)
 
      if (keyIsDown(83)){
         moveY=moveY+10;
