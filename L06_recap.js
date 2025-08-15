@@ -28,14 +28,14 @@ function draw(){
 
     if (moveY===400){
         moveY=400;
-}
+    }
     if (moveY===0){
         moveY=0;
-}
+    }
     if (moveX===400){
         moveX=400;
-}
+    }
     if (moveX===0){
         moveX=0;
-}
+    }
 }
