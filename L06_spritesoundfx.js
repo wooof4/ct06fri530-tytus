@@ -13,6 +13,18 @@ bgmusic.loop();
 }
 
 function draw(){
-    image(picoImg,600,350,110,133)
+    image(picoImg,600,350,moveX,moveY)
 
+     if (keyIsDown(83)){
+        moveY=moveY+10;
+    }
+    if (keyIsDown(87)){
+        moveY=moveY-10;
+    }
+    if (keyIsDown(68)){
+        moveX=moveX+10;
+    }
+    if (keyIsDown(65)){
+        moveX=moveX-10;
+    }
 }
