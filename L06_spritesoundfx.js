@@ -31,7 +31,7 @@ function draw(){
     if (keyIsDown(65)){
         moveX=moveX-10;
     }
-        if (moveY >= 400){
+        if (moveY >= 700){
         moveY=400-30;
         soundpop.play();
     }
