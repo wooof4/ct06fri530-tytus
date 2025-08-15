@@ -7,9 +7,10 @@ function preload(){
 function setup(){
     createCanvas(1200,700)
 background('lightblue')
+bgmis
 }
 
 function draw(){
     image(picoImg,600,350,110,133)
-    
+
 }
