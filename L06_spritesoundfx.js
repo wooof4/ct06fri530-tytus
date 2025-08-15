@@ -1,7 +1,7 @@
 // write your codes here
-let picoimg;
+let picoImg;
 function preload(){
-    picoimg=loadImage('assets/pico.png');
+    picoImg=loadImage('assets/pico.png');
 }
 function setup(){
     createCanvas(1200,700)
