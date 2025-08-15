@@ -26,9 +26,11 @@ function draw(){
     }
     if (keyIsDown(87)){
         moveY=moveY-10;
+        background('red')
     }
     if (keyIsDown(68)){
         moveX=moveX+10;
+        background('red')
     }
     if (keyIsDown(65)){
         moveX=moveX-10;
