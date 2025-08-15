@@ -3,4 +3,6 @@ let picoimg;
 function preload(){
 
 }
-function setup()
+function setup(){
+    cre
+}
