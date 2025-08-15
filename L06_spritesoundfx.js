@@ -1,4 +1,6 @@
 // write your codes here
+let moveY=200;
+let moveX=200;
 let picoImg,bgmusic;
 function preload(){
     picoImg=loadImage('assets/pico-a.png');
