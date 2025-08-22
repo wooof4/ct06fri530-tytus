@@ -9,7 +9,7 @@ function setup(){
     background('lightblue')
 }
 function draw(){
-    background(220)
+    //background(220)
     noStroke();
     fill('red');
     circle(ballX,ballY,ballwidth);
