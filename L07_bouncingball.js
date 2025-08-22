@@ -27,6 +27,9 @@ function draw(){
     
     if (ballX-ballwidth/2<=0){
         ballxspeed=ballxspeed * -1;
+        r=random(255);
+        g=random(255);
+        b=random(255);
     }
 
     if (ballY+ballwidth/2>=height){
