@@ -9,8 +9,8 @@ function setup(){
     createCanvas(600,400)
     background('lightblue')
     r=random(255);
-    let g=random(255);
-    let b=random(255);
+    g=random(255);
+    b=random(255);
 }
 function draw(){
     //background(220)
