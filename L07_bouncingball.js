@@ -1,5 +1,5 @@
-let ballX = 300;
-let ballY = random();
+let ballX = random();
+let ballY = random(0,600);
 let ballxspeed = 100;
 let ballyspeed = 100;
 let ballwidth = 30;
