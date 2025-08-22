@@ -1,4 +1,4 @@
-let ballX =300;
+let ballX = 300;
 let ballY = 200;
 let ballxspeed = 100;
 let ballyspeed = 100;
