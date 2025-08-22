@@ -1,8 +1,8 @@
 let ballX = 300;
 let ballY = 200;
-let ballxspeed = 100;
-let ballyspeed = 100;
-let ballwidth = 300;
+let ballxspeed = 50;
+let ballyspeed = 50;
+let ballwidth = 150;
 let r,g,b;
 
 function setup(){
