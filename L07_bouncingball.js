@@ -21,8 +21,8 @@ function draw(){
     if (ballX+ballwidth/2>=width){
         ballxspeed=ballxspeed * -1;
         let r=random(255)
-let g=random(255)
-     b=random(255)
+        g=random(255)
+        b=random(255)
     }
     
     if (ballX-ballwidth/2<=0){
