@@ -1,7 +1,7 @@
 let ballX = 300;
 let ballY = 200;
-let ballxspeed = 150;
-let ballyspeed = 150;
+let ballxspeed = 100;
+let ballyspeed = 100;
 let ballwidth = 30;
 
 function setup(){
@@ -17,7 +17,7 @@ function draw(){
     ballY=ballY+ballyspeed;
 
     if (ballX+ballwidth/2>=width){
-        ballxspeed=ballxspeed * -1;
+        ballxspeed=ballxspeed * -2;
     }
     
     if (ballX-ballwidth/2<=0){
