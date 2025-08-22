@@ -4,8 +4,8 @@ let ballxspeed = 10;
 let ballyspeed = 10;
 let ballwidth = 30;
 let r=random(255)
-let g=random
-
+let g=random(255)
+let b
 function setup(){
     createCanvas(600,400)
     background('lightblue')
