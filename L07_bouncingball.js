@@ -7,6 +7,9 @@ let ballwidth = 30;
 function setup(){
     createCanvas(600,400)
     background('lightblue')
+    let r=random(255);
+    let g=random(255);
+    let b=random(255);
 }
 function draw(){
     //background(220)
