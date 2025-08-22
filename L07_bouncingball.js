@@ -3,7 +3,7 @@ let ballY = 200;
 let ballxspeed = 10;
 let ballyspeed = 10;
 let ballwidth = 30;
-let r=r
+let r=random(255)
 
 function setup(){
     createCanvas(600,400)
