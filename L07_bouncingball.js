@@ -5,7 +5,7 @@ let ballyspeed = 10;
 let ballwidth = 30;
 let r=random(255)
 let g=random(255)
-let b
+let b=random(255)
 function setup(){
     createCanvas(600,400)
     background('lightblue')
@@ -13,7 +13,7 @@ function setup(){
 function draw(){
     //background(220)
     noStroke();
-    fill();
+    fill(r,g,b);
     circle(ballX,ballY,ballwidth);
     ballX=ballX+ballxspeed;
     ballY=ballY+ballyspeed;
