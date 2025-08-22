@@ -38,7 +38,7 @@ function draw(){
        
     }
     if (keyIsDown(65)){
-        moveX=moveX-100;
+        moveX=moveX-100w;
     }
         if (moveY >= 700){
         moveY=700-110;
