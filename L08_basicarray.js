@@ -4,7 +4,8 @@ function setup(){
     background(220);
     textSize(32);
     textAlign(CENTER,CENTER);
-    text('DVD',300,200);
+    text('DVD',x,y);
 }
 function draw(){
+    
 }
