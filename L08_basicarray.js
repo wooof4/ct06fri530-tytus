@@ -10,7 +10,7 @@ background(220)
 text('DVD',x,200);
 x=x+xspeed;
 xspeed=xspeed+10
-    if (x==width){
+    if (xspeed==width){
     xspeed=xspeed*-1
     }
 }
