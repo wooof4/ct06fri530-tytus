@@ -9,7 +9,7 @@ function draw(){
 background(220)
 text('sssssssss',x,200);
 x=x+xspeed;
-    if (x>=width-140){
+    if (x>=width-150){
     xspeed=xspeed*-1
     }
     else if (x==0){
