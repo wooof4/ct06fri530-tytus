@@ -7,9 +7,9 @@ function setup(){
 }
 function draw(){
 background(220)
-text('DVD',x,200);
+text('sssssssss',x,200);
 x=x+xspeed;
-    if (x>=width-70){
+    if (x>=width-140){
     xspeed=xspeed*-1
     }
     else if (x==0){
