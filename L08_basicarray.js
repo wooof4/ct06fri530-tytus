@@ -7,5 +7,5 @@ function setup(){
     text('DVD',x,y);
 }
 function draw(){
-    
+    text('DVD',x,y);
 }
