@@ -16,6 +16,6 @@ x=x+xspeed;
     }
     else if (x==0){
     xspeed=xspeed*-1
-
+    textAlign(LEFT,CENTER)
     }
 }
