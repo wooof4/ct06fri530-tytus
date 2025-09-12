@@ -11,6 +11,6 @@ text('DVD',x,200);
 x=x+xspeed;
 xspeed=xspeed+10
     if (x==width){
-    x=x*-1
+    xspeed=xspeed*-1
     }
 }
