@@ -9,10 +9,10 @@ function draw(){
 background(220)
 text('DVD',x,200);
 x=x+xspeed;
-    if (x==width){
+    if (x-16==width){
     xspeed=xspeed*-1
     }
     else if (x==0){
-        
+
     }
 }
