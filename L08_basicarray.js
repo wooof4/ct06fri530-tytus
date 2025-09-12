@@ -1,5 +1,6 @@
 let x=300;
 let xspeed=3;
+
 function setup(){
     createCanvas(600,400);
     background(220);
@@ -16,6 +17,5 @@ x=x+xspeed;
     }
     else if (x==0){
     xspeed=xspeed*-1
-    textAlign(LEFT,CENTER)
     }
 }
