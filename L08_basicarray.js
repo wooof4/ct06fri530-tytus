@@ -3,7 +3,8 @@ function setup(){
     background(220)
     textSize(32)
     textAlign(CENTER,CENTER)
-    text('DVD',250,200)
+    text('DVD',300,200)
+    
 }
 function draw(){
 }
