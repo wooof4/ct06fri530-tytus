@@ -4,7 +4,7 @@ function setup(){
     createCanvas(600,400);
     background(220);
     textSize(32);
-    textAlign
+    textAlign(LEFT,C)
 }
 function draw(){
 background(220)
