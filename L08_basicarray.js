@@ -5,6 +5,6 @@ function setup(){
     textSize(32);
 }
 function draw(){
-    text('DVD',x,y);
+    text('DVD',x,200);
     
 }
