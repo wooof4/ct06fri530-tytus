@@ -1,5 +1,5 @@
 let x=300;
-let xspeed=10;
+let xspeed=1;
 function setup(){
     createCanvas(600,400);
     background(220);
