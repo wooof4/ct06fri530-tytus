@@ -12,7 +12,7 @@ text('DVD',x,200);
 x=x+xspeed;
     if (x>=width-70){
     xspeed=xspeed*-1
-    
+    textAlign(RIGHT,CENTER)
     }
     else if (x==0){
     xspeed=xspeed*-1
