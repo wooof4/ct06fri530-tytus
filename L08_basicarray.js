@@ -10,11 +10,12 @@ function draw(){
 background(220)
 text('DVD',x,200);
 x=x+xspeed;
-    if (x>=width-70){
+    if (x>=width){
     xspeed=xspeed*-1
     textAlign(RIGHT,CENTER)
     }
     else if (x==0){
     xspeed=xspeed*-1
+
     }
 }
