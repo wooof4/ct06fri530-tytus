@@ -8,7 +8,7 @@ function setup(){
 function draw(){
 background(220)
 text('DVD',x,200);
-x=x+10;
+x=x+1000;
     if (x==width){
     x=x*-1
     }
