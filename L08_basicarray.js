@@ -5,6 +5,7 @@ function setup(){
     textSize(32);
 }
 function draw(){
+background
 text('DVD',x,200);
 x=x+10;
     if (x==width){
