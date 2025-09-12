@@ -1,11 +1,4 @@
-let x,y;
+let x=3;
 function setup(){
     createCanvas(600,400);
-    background(220);
-    textSize(32);
-    textAlign(CENTER,CENTER);
-}
-function draw(){
-    text('DVD',x,y);
-    x=x+10
-}
+    background(220)
