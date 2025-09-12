@@ -13,6 +13,6 @@ x=x+xspeed;
     xspeed=xspeed*-1
     }
     else if (x==0){
-
+        
     }
 }
