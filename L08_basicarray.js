@@ -12,4 +12,7 @@ x=x+xspeed;
     if (x==width){
     xspeed=xspeed*-1
     }
+    else if (x==0){
+        
+    }
 }
