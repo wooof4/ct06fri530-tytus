@@ -7,7 +7,7 @@ function setup(){
 function draw(){
 text('DVD',x,200);
 x=x+10;
-    if (x===width){
+    if (x==width){
     x=x*-1
     }
 }
