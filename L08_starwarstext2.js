@@ -47,7 +47,14 @@ function draw(){
     textSize(16);
     
     textAlign(CENTER,CENTER);
-    for(let i = 0; i<storyText.length;i++){
+
+
+
+}
+function mousePressed(){
+    if(boolflag){
+    sw.play()
+        for(let i = 0; i<storyText.length;i++){
         
         let sentence=storyText[i];
         
@@ -61,12 +68,6 @@ function draw(){
         
         text(sentence,300,ypos+i*20);
 }
-
-
-}
-function mousePressed(){
-    if(boolflag){
-    sw.play()
 }
     else{
     sw.stop()
