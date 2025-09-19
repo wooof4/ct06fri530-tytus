@@ -71,7 +71,7 @@ function draw(){
 
 function mousePressed(){
 if(boolflag){
-    sw.play
+    sw.play()
 }
 else{
          sw.stop();
