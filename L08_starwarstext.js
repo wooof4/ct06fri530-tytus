@@ -22,15 +22,7 @@ function setup(){
 function draw(){
 
 }
-function mousePressed(){
-    if(boolflag){
-    sw.play()
-}
-    else{
-    sw.stop()
-    }
-    boolflag=!boolflag
-}
+
 // function mouseReleased(){
     
 // }
