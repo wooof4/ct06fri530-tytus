@@ -64,7 +64,7 @@ if(boolflag){
             text(sentence,300,ypos+i*20);
             pop();
         }
-    text(sentence,300,ypos+i*20);
+text(sentence,300,ypos+i*20);
 }
 }
     else{
