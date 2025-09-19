@@ -45,7 +45,7 @@ function draw(){
     
         let sentence=storyText[i];
         text(sentence,300,ypos+i*20);
-        if (i=26){
+        if (i=27){
             textSize(32)
         }
     }
