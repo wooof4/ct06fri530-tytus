@@ -45,7 +45,7 @@ function draw(){
     
         if (i===26){
             push();
-            textSize();
+            textSize(32);
             pop();
         }
         let sentence=storyText[i];
