@@ -25,5 +25,5 @@ function draw(){
     fill('yellow')
     textSize(16)
     textAlign(CENTER,CENTER)
-    text()
+    text(storyText,)
 }
