@@ -53,7 +53,7 @@ function draw(){
 
 }
 function mousePressed(){
-boolflag=!boolflag
+boolflag=!boolflag;
 if(boolflag){
     sw.play()
     for(let i = 0; i<storyText.length;i++){
