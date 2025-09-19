@@ -29,7 +29,7 @@ function draw(){
     textAlign(CENTER,CENTER);
     for(let i = 0; i<storyText.length;i++){
         let sentence=storyText[i];
-        text(sentence,300,ypos+i*20);    
+        text(sentence,300,ymove+i*20);    
     }
     
 }
