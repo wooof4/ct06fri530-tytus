@@ -60,14 +60,16 @@ function draw(){
                 let sentence=storyText[i];
                 text(sentence,300,ypos+i*20);
                 pop();
-                sw.stop
+                
             }
         text(sentence,300,ypos+i*20);
         }
         ypos = ypos-1;
         console.log(ypos)
     }
-    
+   if (ypos===-231){
+    sw.stop
+   } 
 }
 
 function mousePressed(){
