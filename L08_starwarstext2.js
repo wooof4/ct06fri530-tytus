@@ -65,7 +65,7 @@ function draw(){
         text(sentence,300,ypos+i*20);
         }
         ypos = ypos-1;
-        console.log()
+        console.log(ypos)
     }
     
 }
