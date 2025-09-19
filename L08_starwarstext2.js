@@ -27,6 +27,7 @@ let storyText = [
     "", 
     "im gay"
 ];
+
 let ypos,ymove;
 
 function setup(){
@@ -43,7 +44,8 @@ function draw(){
     for(let i = 0; i<storyText.length;i++){
     
         let sentence=storyText[i];
-        text(sentence,300,ypos+i*20);    
+        text(sentence,300,ypos+i*20);
+        
     }
     ypos=ypos-1
 }
