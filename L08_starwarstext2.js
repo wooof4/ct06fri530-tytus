@@ -1,3 +1,7 @@
+let sw,boolflag,favfood;
+function preload(){
+    sw=loadSound('assets/star_wars_theme_8_bit.mp3')
+}
 let storyText = [
     "A long time ago in a galaxy far,",
     "far away...",
