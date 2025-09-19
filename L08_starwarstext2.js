@@ -59,12 +59,5 @@ function draw(){
         text(sentence,300,ypos+i*20);
 }
 
-    if(boolflag){
-    sw.play()
-}
-    else{
-    sw.stop()
-    }
-    boolflag=!boolflag
 
 }
