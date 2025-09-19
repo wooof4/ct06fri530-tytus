@@ -27,7 +27,7 @@ function draw(){
     textAlign(CENTER,CENTER);
     for(let i = 0; i<storyText;i++){
         let sentence=storyText[i]
-        text(storyText,300,200);    
+        text(sentence,300,200);    
     }
     
 }
