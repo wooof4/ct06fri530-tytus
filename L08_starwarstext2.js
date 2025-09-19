@@ -24,5 +24,5 @@ function draw(){
     background(black)
     fill('yellow')
     textSize(16)
-    
+    textAllign
 }
