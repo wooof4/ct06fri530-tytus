@@ -13,6 +13,7 @@ let storyText = [
     "animations...",
     "",
     "May the Code be with you!"
+    
 ];
 let ypos,ymove;
 
@@ -30,7 +31,7 @@ function draw(){
     for(let i = 0; i<storyText.length;i++){
     
         let sentence=storyText[i];
-        text(sentence,300,ypos+i*200);    
+        text(sentence,300,ypos+i*20);    
     }
-    ypos=ypos-10
+    ypos=ypos-0.5
 }
