@@ -65,7 +65,7 @@ text(sentence,300,ypos+i*20);
 }
 }
     else{
-    sw.stop()
+    sw.stop();
     }
 }
 function mousePressed(){
