@@ -65,11 +65,11 @@ function draw(){
         }
     }
     else{
-    sw.stop();
+        sw.stop();
     }
 }
 function mousePressed(){
-boolflag=!boolflag;
 
-    
+    boolflag=!boolflag;
+        
 }
