@@ -58,6 +58,6 @@ function draw(){
         
         text(sentence,300,ypos+i*20);
 }
-
+play
 
 }
