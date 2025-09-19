@@ -68,5 +68,13 @@ function draw(){
     }
     boolflag=!boolflag
 }
-
+function mousePressed(){
+    if(boolflag){
+    sw.play()
+}
+    else{
+    sw.stop()
+    }
+    boolflag=!boolflag
+}
 }
