@@ -50,7 +50,7 @@ function draw(){
     for(let i = 0; i<storyText.length;i++){
         
         let sentence=storyText[i];
-        sw.play()
+        
         if (i===storyText.length-1){
             push();
             textSize(200);
