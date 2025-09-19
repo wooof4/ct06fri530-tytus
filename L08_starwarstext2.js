@@ -35,11 +35,11 @@ function preload(){
 }
 
 console.log(storyText.length)
-let ypos,ymove;
+let ypos;
 
 function setup(){
     createCanvas(600,400);
-    ypos=height/2
+    ypos=height/2;
     boolflag=false;
 }
 
