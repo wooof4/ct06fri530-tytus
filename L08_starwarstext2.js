@@ -16,6 +16,9 @@ let storyText = [
     "",
     "",
     "", 
+    "",
+    "",
+    "", 
     "im gay"
 ];
 let ypos,ymove;
