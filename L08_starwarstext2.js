@@ -48,7 +48,7 @@ function draw(){
         if (i=27){
             push();
             textSize(32);
-            
+            pop
         }
     }
     ypos=ypos-1
