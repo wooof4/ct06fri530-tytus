@@ -65,8 +65,6 @@ text(sentence,300,ypos+i*20);
     else{
     sw.stop()
     }
-
-
 }
 function mousePressed(){
 boolflag=!boolflag;
