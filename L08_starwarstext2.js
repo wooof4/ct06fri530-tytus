@@ -67,7 +67,7 @@ function draw(){
         ypos = ypos-1;
     }
     else{
-        // sw.stop();
+         sw.stop();
     }
 }
 function mousePressed(){
