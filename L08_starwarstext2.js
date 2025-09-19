@@ -51,18 +51,18 @@ function draw(){
     
     textAlign(CENTER,CENTER);
     if(boolflag){
-    sw.play()
-    for(let i = 0; i<storyText.length;i++){
-        let sentence=storyText[i];
-        if (i===storyText.length-1){
-            push();
-            textSize(200);
+        sw.play()
+        for(let i = 0; i<storyText.length;i++){
             let sentence=storyText[i];
-            text(sentence,300,ypos+i*20);
-            pop();
-            }
-    text(sentence,300,ypos+i*20);
-    }
+            if (i===storyText.length-1){
+                push();
+                textSize(200);
+                let sentence=storyText[i];
+                text(sentence,300,ypos+i*20);
+                pop();
+                }
+        text(sentence,300,ypos+i*20);
+        }
     }
     else{
     sw.stop();
