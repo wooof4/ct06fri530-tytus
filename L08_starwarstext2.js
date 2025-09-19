@@ -51,7 +51,7 @@ function draw(){
     
     textAlign(CENTER,CENTER);
     if(boolflag){
-        sw.play()
+        // sw.play()
         for(let i = 0; i<storyText.length;i++){
             let sentence=storyText[i];
             if (i===storyText.length-1){
@@ -65,7 +65,7 @@ function draw(){
         }
     }
     else{
-        sw.stop();
+        // sw.stop();
     }
 }
 function mousePressed(){
