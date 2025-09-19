@@ -43,7 +43,7 @@ function draw(){
     textAlign(CENTER,CENTER);
     for(let i = 0; i<storyText.length;i++){
     
-        if (i===25){
+        if (i===26){
             push();
             textSize(200);
             pop();
