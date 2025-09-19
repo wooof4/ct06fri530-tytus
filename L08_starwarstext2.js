@@ -43,13 +43,14 @@ function draw(){
     textAlign(CENTER,CENTER);
     for(let i = 0; i<storyText.length;i++){
     
-        let sentence=storyText[i];
-        text(sentence,300,ypos+i*20);
-        if (i=27){
+                if (i=27){
             push();
             textSize(32);
             pop();
         }
+        let sentence=storyText[i];
+        text(sentence,300,ypos+i*20);
+
     }
     ypos=ypos-1
 }
