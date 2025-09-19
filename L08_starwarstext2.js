@@ -22,6 +22,7 @@ function setup(){
 }
 
 function draw(){
+    ymove=
     background(0);
     fill('yellow');
     textSize(16);
