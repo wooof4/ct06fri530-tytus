@@ -1,7 +1,5 @@
 let sw,boolflag,favfood;
-function preload(){
-    sw=loadSound('assets/star_wars_theme_8_bit.mp3')
-}
+
 let storyText = [
     "A long time ago in a galaxy far,",
     "far away...",
@@ -31,6 +29,9 @@ let storyText = [
     "", 
     "im gay"
 ];
+function preload(){
+    sw=loadSound('assets/star_wars_theme_8_bit.mp3')
+}
 console.log(storyText.length)
 let ypos,ymove;
 
