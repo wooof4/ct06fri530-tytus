@@ -60,6 +60,7 @@ function draw(){
                 let sentence=storyText[i];
                 text(sentence,300,ypos+i*20);
                 pop();
+                sw.stop
             }
         text(sentence,300,ypos+i*20);
         }
