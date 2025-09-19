@@ -27,7 +27,7 @@ let storyText = [
     "", 
     "im gay"
 ];
-console.log()
+console.log(storyText.length)
 let ypos,ymove;
 
 function setup(){
