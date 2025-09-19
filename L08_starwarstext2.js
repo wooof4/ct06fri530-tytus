@@ -2,5 +2,5 @@
 
 
 function setup(){
-    vreateCanvas(400,)
+    vreateCanva(600,)
 }
