@@ -66,10 +66,9 @@ function draw(){
 
         ypos = ypos-1;
     }
-    else{
-         sw.stop();
-    }
+    
 }
+
 function mousePressed(){
 sw.play()
     boolflag=!boolflag;
