@@ -46,7 +46,9 @@ function draw(){
         let sentence=storyText[i];
         text(sentence,300,ypos+i*20);
         if (i=27){
-            textSize(32)
+            push();
+            textSize(32);
+            
         }
     }
     ypos=ypos-1
