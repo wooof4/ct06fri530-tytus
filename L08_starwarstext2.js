@@ -17,13 +17,13 @@ let storyText = [
 
 
 function setup(){
-    createCanvas(600,400)
+    createCanvas(600,400);
 }
 
 function draw(){
-    background(black);
+    background(0);
     fill('yellow');
     textSize(16);
-    textAlign(CENTER,CENTER)
-    text(storyText,300,200)
+    textAlign(CENTER,CENTER);
+    text(storyText,300,200);
 }
