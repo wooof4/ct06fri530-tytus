@@ -18,5 +18,5 @@ let storyText = [
 
 function setup(){
     crea
-    eCanva(600,400)
+    createCanva(600,400)
 }
