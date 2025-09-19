@@ -53,7 +53,7 @@ function draw(){
 
 }
 function mousePressed(){
-    if(boolflag){
+if(boolflag){
     sw.play()
     for(let i = 0; i<storyText.length;i++){
         let sentence=storyText[i];
@@ -64,7 +64,7 @@ function mousePressed(){
             text(sentence,300,ypos+i*20);
             pop();
         }
-        text(sentence,300,ypos+i*20);
+    text(sentence,300,ypos+i*20);
 }
 }
     else{
