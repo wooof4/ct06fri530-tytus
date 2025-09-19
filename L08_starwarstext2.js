@@ -24,5 +24,5 @@ function draw(){
     background(black)
     fill('yellow')
     textSize(16)
-    textAlign(cet)
+    textAlign(CENTER)
 }
