@@ -58,8 +58,7 @@ function draw(){
         
         text(sentence,300,ypos+i*20);
 }
-    ypos=ypos-1.5
-    function mousePressed(){
+
     if(boolflag){
     sw.play()
 }
@@ -67,14 +66,5 @@ function draw(){
     sw.stop()
     }
     boolflag=!boolflag
-}
-function mousePressed(){
-    if(boolflag){
-    sw.play()
-}
-    else{
-    sw.stop()
-    }
-    boolflag=!boolflag
-}
+
 }
