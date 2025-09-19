@@ -13,6 +13,9 @@ let storyText = [
     "animations...",
     "",
     "May the Code be with you!",
+    "",
+    "",
+    "", 
     "im gay"
 ];
 let ypos,ymove;
