@@ -28,7 +28,7 @@ function draw(){
     textSize(16);
     textAlign(CENTER,CENTER);
     for(let i = 0; i<storyText.length;i++){
-        ymove=ypos+1
+        ymove=ypos+200
         let sentence=storyText[i];
         text(sentence,300,ymove+i*20);    
     }
