@@ -55,7 +55,6 @@ function mousePressed(){
     if(boolflag){
     sw.play()
     for(let i = 0; i<storyText.length;i++){
-        
         let sentence=storyText[i];
         if (i===storyText.length-1){
             push();
@@ -64,7 +63,6 @@ function mousePressed(){
             text(sentence,300,ypos+i*20);
             pop();
         }
-        
         text(sentence,300,ypos+i*20);
 }
 }
