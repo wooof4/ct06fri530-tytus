@@ -48,8 +48,9 @@ function draw(){
     
     textAlign(CENTER,CENTER);
     for(let i = 0; i<storyText.length;i++){
-        sw.play()
+        
         let sentence=storyText[i];
+        sw.play()
         if (i===storyText.length-1){
             push();
             textSize(200);
