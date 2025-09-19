@@ -32,5 +32,5 @@ function draw(){
         let sentence=storyText[i];
         text(sentence,300,ypos+i*200);    
     }
-    ypos=ypos-100
+    ypos=ypos-10
 }
