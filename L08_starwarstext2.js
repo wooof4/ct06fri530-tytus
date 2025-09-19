@@ -42,7 +42,8 @@ function draw(){
     textSize(16);
     textAlign(CENTER,CENTER);
     for(let i = 0; i<storyText.length;i++){
-    
+        
+        let sentence=storyText[i];
         if (i===storyText.length-1){
             push();
             textSize(200);
@@ -50,7 +51,7 @@ function draw(){
             text(sentence,300,ypos+i*20);
             pop();
         }
-        let sentence=storyText[i];
+        
         text(sentence,300,ypos+i*20);
 }
     ypos=ypos-1.5
