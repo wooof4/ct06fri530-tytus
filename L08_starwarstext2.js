@@ -44,10 +44,10 @@ function draw(){
     background(0);
     fill('yellow');
     textSize(16);
-    sw.play()
+    
     textAlign(CENTER,CENTER);
     for(let i = 0; i<storyText.length;i++){
-        
+        sw.play()
         let sentence=storyText[i];
         if (i===storyText.length-1){
             push();
