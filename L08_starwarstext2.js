@@ -76,6 +76,7 @@ function mousePressed(){
     }
     else{
             sw.stop();
+            ypos=height/2
     }
     
         
