@@ -70,7 +70,12 @@ function draw(){
 }
 
 function mousePressed(){
-sw.play()
+if(boolflag){
+    sw.play
+}
+else{
+         sw.stop();
+}
     boolflag=!boolflag;
         
 }
