@@ -67,7 +67,7 @@ function draw(){
         ypos = ypos-1;
         console.log(ypos)
     }
-   if (ypos>=-231){
+   if (ypos>=-300){
     sw.stop
    } 
 }
