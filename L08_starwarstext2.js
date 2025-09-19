@@ -38,6 +38,7 @@ let ypos,ymove;
 function setup(){
     createCanvas(600,400);
     ypos=height/2
+    boolflag=false;
 }
 
 function draw(){
