@@ -51,7 +51,7 @@ function draw(){
     
     textAlign(CENTER,CENTER);
     if(boolflag){
-        sw.play()
+        
         for(let i = 0; i<storyText.length;i++){
             let sentence=storyText[i];
             if (i===storyText.length-1){
@@ -71,7 +71,7 @@ function draw(){
     }
 }
 function mousePressed(){
-
+sw.play()
     boolflag=!boolflag;
         
 }
