@@ -48,12 +48,6 @@ function draw(){
     textSize(16);
     
     textAlign(CENTER,CENTER);
-
-
-
-}
-function mousePressed(){
-boolflag=!boolflag;
 if(boolflag){
     sw.play()
     for(let i = 0; i<storyText.length;i++){
@@ -71,5 +65,11 @@ text(sentence,300,ypos+i*20);
     else{
     sw.stop()
     }
+
+
+}
+function mousePressed(){
+boolflag=!boolflag;
+
     
 }
