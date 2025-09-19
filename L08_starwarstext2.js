@@ -14,7 +14,7 @@ let storyText = [
     "",
     "May the Code be with you!"
 ];
-
+let ypos;
 
 function setup(){
     createCanvas(600,400);
