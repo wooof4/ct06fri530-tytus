@@ -31,10 +31,10 @@ let storyText = [
 ];
 
 function preload(){
-    sw=loadSound('assets/star_wars_theme_8_bit.mp3')
+    sw=loadSound('assets/star_wars_theme_8_bit.mp3');
 }
 
-console.log(storyText.length)
+// console.log(storyText.length)
 let ypos;
 
 function setup(){
