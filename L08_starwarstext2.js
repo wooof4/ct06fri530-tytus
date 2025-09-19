@@ -25,5 +25,8 @@ function draw(){
     fill('yellow');
     textSize(16);
     textAlign(CENTER,CENTER);
-    text(storyText,300,200);
+    for(let i = 0; i<storyText;i++){
+    text(storyText,300,200);    
+    }
+    
 }
