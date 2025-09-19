@@ -22,5 +22,7 @@ function setup(){
 
 function draw(){
     background(black)
-    fill('yr')
+    fill('yellow')
+    textSize(16)
+    
 }
