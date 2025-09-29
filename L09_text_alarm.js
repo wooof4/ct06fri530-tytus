@@ -47,4 +47,7 @@ function countdownUpdate(){
 function changeMB(){
     bgmusic.play();
     bgcolor=color(random(255),random(255),random(255))
+    if (keycode==32){
+        
+    }
 }
