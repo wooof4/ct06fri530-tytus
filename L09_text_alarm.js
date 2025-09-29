@@ -27,13 +27,13 @@ function draw(){
     text('click me to start timer',width/2,height/2+50);
     text(countdown,300,200);
    
-    // fill(0)
-    // textSize(72)
-    // let h=hour();
-    // let m=minute();
-    // let s=second();
-    // let timestring=nf(h,2)+ ':'+ nf(m,2) + ':' + nf(s,2)
-    // text(timestring,300,100)
+    fill(0)
+    textSize(72)
+    let h=hour();
+    let m=minute();
+    let s=second();
+    let timestring=nf(h,2)+ ':'+ nf(m,2) + ':' + nf(s,2)
+    text(timestring,300,100)
 }
 function mousePressed(){
     interval=setInterval(countdownUpdate,1000);    
