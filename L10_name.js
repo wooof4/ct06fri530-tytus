@@ -1,3 +1,5 @@
 let inputtext;
 let usertext='user text here';
-function setup 
+function setup(){
+    createCanvas(600,400)
+}
