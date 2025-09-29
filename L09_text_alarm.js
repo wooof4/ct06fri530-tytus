@@ -44,7 +44,7 @@ function countdownUpdate(){
     }
     else{
         clearInterval(interval);
-        c
+        
         change=setInterval(help,50000000000000000000000000000000000000000000000000000000000000000000000000000)
     }
 }
