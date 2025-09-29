@@ -58,8 +58,7 @@ function help(){
 }
 function keyPressed(){
     if (keycode=32){
-        hange=setInterval(changeMB,50000000000000000000000000000);
-        interval=setInterval(countdownUpdate,1000);
+        clearInterval(change)
         bgmusic.stop()
         bgcolor=220
         countdown=5
