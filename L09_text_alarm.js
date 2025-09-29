@@ -40,5 +40,6 @@ function countdownUpdate(){
     }
     else{
         clearInterval(interval);
+        change=setInterval()
     }
 }
