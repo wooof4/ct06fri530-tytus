@@ -56,3 +56,6 @@ function help(){
         bgmusic.play();
     }
 }
+function keyPressed(){
+    
+}
