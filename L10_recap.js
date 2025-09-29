@@ -5,7 +5,7 @@ function setup(){
     
 }
 function draw(){
-    background(bg)
+    background(bg);
     text(countdown,200,200);
 }
 function changeMB(){
