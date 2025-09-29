@@ -40,6 +40,6 @@ function countdownUpdate(){
     }
     else{
         clearInterval(interval);
-        change=setInterval()
+        change=setInterval(changeMB,500);
     }
 }
