@@ -9,5 +9,6 @@ function draw(){
     let h=hour();
     let m=minute();
     let s=second();
-    let timestring=nf(h,2)+ ':'+ nf(m,2) + ':' + nf
+    let timestring=nf(h,2)+ ':'+ nf(m,2) + ':' + nf(s,2)
+    text()
 }
