@@ -23,7 +23,6 @@ function setup(){
 }
 function draw(){
     background(bgcolor);
-    
     textSize(32);
     text('click me to start timer',width/2,height/2+50);
     text(countdown,300,200);
