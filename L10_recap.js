@@ -6,7 +6,7 @@ function setup(){
 function draw(){
     background(bg);
     let s=59-second()
-    text(countdown,200,200);
+    text(s,200,200);
 }
 function changeMB(){
     bg=color(random(255),random(255),random(255))
