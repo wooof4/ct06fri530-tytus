@@ -22,5 +22,5 @@ function setup(){
 function draw(){
     background(220)
     textSize(32)
-    text('click me to start timer',width/2)
+    text('click me to start timer',width/2,height/2+50)
 }
