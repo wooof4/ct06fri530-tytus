@@ -13,6 +13,7 @@
 //     let timestring=nf(h,2)+ ':'+ nf(m,2) + ':' + nf(s,2)
 //     text(timestring,300,200)
 // }
+let bgmusic
 let countdown=5;
 let interval;
 function setup(){
