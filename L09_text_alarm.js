@@ -9,4 +9,5 @@ function draw(){
     let h=hour();
     let m=minute();
     let s=second();
+    text(nf(h,2))
 }
