@@ -44,7 +44,7 @@ function countdownUpdate(){
     }
     else{
         clearInterval(interval);
-        change=setInterval(changeMB,500);
+        c
         change=setInterval(help,50000000000000000000000000000000000000000000000000000000000000000000000000000)
     }
 }
@@ -58,6 +58,7 @@ function help(){
 }
 function keyPressed(){
     if (keycode=32){
+        hange=setInterval(changeMB,50000000000000000000000000000);
         interval=setInterval(countdownUpdate,1000);
         bgmusic.stop()
         bgcolor=220
