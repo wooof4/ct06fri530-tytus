@@ -11,3 +11,6 @@ function draw(){
 function mousePressed(){
 change=setInterval(changeMB,500);
 }
+function changeMB(){
+    bg=color(random(255),random(255),random(255))
+}
