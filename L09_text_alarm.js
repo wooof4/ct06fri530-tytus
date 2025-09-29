@@ -26,7 +26,7 @@ function draw(){
     textSize(32);
     text('click me to start timer',width/2,height/2+50);
     text(countdown,300,200);
-    background(220)
+   
     // fill(0)
     // textSize(72)
     // let h=hour();
