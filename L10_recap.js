@@ -6,7 +6,7 @@ function setup(){
 function draw(){
     background(bg);
     let s=59-second()
-    textS
+    textSize(200)
     text(s,200,200);
 }
 function changeMB(){
