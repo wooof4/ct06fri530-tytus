@@ -51,5 +51,5 @@ function changeMB(){
         bgmusic.play();
     }
     bgcolor=color(random(255),random(255),random(255))
-
+    change=setInterval(changeMB,500);
 }
