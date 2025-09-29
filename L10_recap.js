@@ -1,4 +1,3 @@
-let countdown=60;
 let s =second();
 let bg = 'gray';
 function setup(){
