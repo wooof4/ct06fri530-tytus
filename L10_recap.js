@@ -8,5 +8,6 @@ function setup(){
 function draw(){
     background(bg)
 }
-
+function mousePressed(){
 change=setInterval(changeMB,500);
+}
