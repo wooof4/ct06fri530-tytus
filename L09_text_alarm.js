@@ -59,7 +59,7 @@ function help(){
 function keyPressed(){
     if (keycode=32){
         interval=setInterval(countdownUpdate,1000);
-        bgmusic.stop
+        bgmusic.stop()
         bgcolor=220
         countdown=5
     }
