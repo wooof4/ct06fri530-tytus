@@ -8,7 +8,7 @@ function draw(){
     let s=59-second()
     textSize(100)
     text(s,200,200);
-    interval
+    change
 }
 function changeMB(){
     bg=color(random(255),random(255),random(255))
