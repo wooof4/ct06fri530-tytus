@@ -5,7 +5,7 @@ function setup(){
 }
 function draw(){
     background(bg);
-    let s=59-
+    let s=59-second()
     text(countdown,200,200);
 }
 function changeMB(){
