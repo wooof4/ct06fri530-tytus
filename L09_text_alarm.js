@@ -31,5 +31,7 @@ function countdownUpdate(){
     if(countdown>0){
         count-=1;
     }
-    else 
+    else{
+        clearInterval
+    }
 }
