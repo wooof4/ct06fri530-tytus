@@ -1,14 +1,14 @@
 let bg = 'gray';
 function setup(){
     createCanvas(400,400)
-    
+    inter
 }
 function draw(){
     background(bg);
     let s=59-second()
     textSize(100)
     text(s,200,200);
-    change
+    
 }
 function changeMB(){
     bg=color(random(255),random(255),random(255))
