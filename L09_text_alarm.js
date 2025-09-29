@@ -6,6 +6,7 @@ function setup(){
 function draw(){
     background(220)
     fill(0)
+    textSize(72)
     let h=hour();
     let m=minute();
     let s=second();
