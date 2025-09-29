@@ -11,7 +11,7 @@
 let bgmusic;
 let countdown=5;
 let interval;
-let bgcolor=color(220);
+let bgcolor= 'gray';
 
 function preload(){
     bgmusic=loadSound('assets/bossaNova.mp3');
