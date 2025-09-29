@@ -46,5 +46,5 @@ function countdownUpdate(){
 }
 function changeMB(){
     bgmusic.play()
-    bgcolor=random(255);
+    bgcolor=color(random(255);)
 }
