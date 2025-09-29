@@ -1,4 +1,5 @@
 let s =second();
 function setup(){
-    createCanvas()
+    createCanvas(600,400)
+    background
 }
