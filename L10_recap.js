@@ -7,6 +7,7 @@ function setup(){
 }
 function draw(){
     background(bg)
+    text(countdown,300,200);
 }
 function mousePressed(){
 change=setInterval(changeMB,500);
