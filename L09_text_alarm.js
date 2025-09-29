@@ -20,10 +20,10 @@ function setup(){
    textAlign(CENTER,CENTER) 
 }
 function draw(){
-    background(220)
-    textSize(32)
-    text('click me to start timer',width/2,height/2+50)
-    text(countdown,300,200)
+    background(220);
+    textSize(32);
+    text('click me to start timer',width/2,height/2+50);
+    text(countdown,300,200);
 }
 function mousePressed(){
     interval=setInterval(countdownUpdate,1000);
