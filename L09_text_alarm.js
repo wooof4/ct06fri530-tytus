@@ -34,7 +34,6 @@ function draw(){
 }
 function mousePressed(){
     interval=setInterval(countdownUpdate,1000);    
-    
 }
 function countdownUpdate(){
     if(countdown>0){
@@ -47,6 +46,6 @@ function countdownUpdate(){
 }
 function changeMB(){
     bgmusic.play();
-    bgcolor=color(random(255),random(255),random(255))
+    bgcolor=color(random(255),random(255),random(255));
 
 }
