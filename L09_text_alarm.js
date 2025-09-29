@@ -53,6 +53,6 @@ function changeMB(){
 }
 function help(){
     if(countdown==0){
-        bgmusic.plday();
+        bgmusic.play();
     }
 }
