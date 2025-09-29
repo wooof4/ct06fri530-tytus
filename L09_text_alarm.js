@@ -17,8 +17,8 @@ function preload(){
     bgmusic=loadSound('assets/bossaNova.mp3');
 }
 function setup(){
-   createCanvas(600,400)
-   textAlign(CENTER,CENTER) 
+   createCanvas(600,400);
+   textAlign(CENTER,CENTER); 
 
 }
 function draw(){
