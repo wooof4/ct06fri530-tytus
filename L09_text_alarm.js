@@ -34,9 +34,7 @@ function draw(){
 }
 function mousePressed(){
     interval=setInterval(countdownUpdate,1000);    
-    if (keycode==32){
-        
-    }
+    
 }
 function countdownUpdate(){
     if(countdown>0){
