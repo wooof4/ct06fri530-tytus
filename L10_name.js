@@ -1,1 +1,2 @@
-let inputtext
+let inputtext;
+let usertext
