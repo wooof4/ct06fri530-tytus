@@ -19,7 +19,7 @@ let bgmusic;
 let countdown=5;
 let interval;
 function preload(){
-    
+    bgmusic=loadSound('assets/bossaNova.mp3');
 }
 function setup(){
    createCanvas(600,400)
