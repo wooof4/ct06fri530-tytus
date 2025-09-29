@@ -32,6 +32,6 @@ function countdownUpdate(){
         count-=1;
     }
     else{
-        clearInterval
+        clearInterval(interval);
     }
 }
