@@ -1,7 +1,7 @@
 let bg = 'gray';
 function setup(){
     createCanvas(400,400)
-    inter
+    interval=setInterval(changeMB,)
 }
 function draw(){
     background(bg);
