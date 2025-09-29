@@ -33,7 +33,10 @@ function draw(){
     text(countdown,300,200);
 }
 function mousePressed(){
-    interval=setInterval(countdownUpdate,1000);
+    interval=setInterval(countdownUpdate,1000);    
+    if (keycode==32){
+        
+    }
 }
 function countdownUpdate(){
     if(countdown>0){
@@ -47,7 +50,5 @@ function countdownUpdate(){
 function changeMB(){
     bgmusic.play();
     bgcolor=color(random(255),random(255),random(255))
-    if (keycode==32){
-        
-    }
+
 }
