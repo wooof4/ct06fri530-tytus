@@ -52,3 +52,6 @@ function changeMB(){
     bgcolor=color(random(255),random(255),random(255))
     change=setInterval(changeMB,500);
 }
+function help(){
+    
+}
