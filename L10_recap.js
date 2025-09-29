@@ -1,6 +1,6 @@
 let countdown=60;
 let s =second();
-let bg = 220;
+let bg = color(220);
 function setup(){
     createCanvas(400,400)
     
