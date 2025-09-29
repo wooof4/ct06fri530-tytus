@@ -25,7 +25,7 @@ function preload(){
 function setup(){
    createCanvas(600,400)
    textAlign(CENTER,CENTER) 
-   
+   if(countdown==0)
    bgmusic.play();
 }
 function draw(){
