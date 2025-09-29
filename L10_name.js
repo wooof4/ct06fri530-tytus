@@ -1,2 +1,2 @@
 let inputtext;
-let usertext
+let usertext='user text'
