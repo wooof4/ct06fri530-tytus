@@ -25,7 +25,7 @@ function preload(){
 function setup(){
    createCanvas(600,400)
    textAlign(CENTER,CENTER) 
-   bgcolor=color(random(255),random(255),random(255));
+   ;
 }
 function draw(){
     background(bgcolor);
@@ -47,6 +47,6 @@ function countdownUpdate(){
 }
 function changeMB(){
     bgmusic.play();
-    
+    bgcolor=color(random(255),random(255),random(255))
 
 }
