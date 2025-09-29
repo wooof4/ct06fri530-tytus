@@ -5,7 +5,7 @@
 // }
 // function draw(){
     
-}
+// }
 
 //task 2+3
 let bgmusic;
