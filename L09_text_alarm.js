@@ -44,5 +44,6 @@ function countdownUpdate(){
     }
 }
 function changeMB(){
+    bgmusic.play()
     
 }
