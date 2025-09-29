@@ -5,4 +5,5 @@ function setup(){
 }
 function draw(){
     let h=hour();
+    let m=minute();
 }
