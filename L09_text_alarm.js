@@ -57,5 +57,7 @@ function help(){
     }
 }
 function keyPressed(){
-    
+    if (keycode=32){
+        
+    }
 }
