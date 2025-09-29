@@ -61,6 +61,6 @@ function keyPressed(){
         interval=setInterval(countdownUpdate,1000);
         bgmusic.stop
         bgcolor=220
-        
+        countdown=5
     }
 }
