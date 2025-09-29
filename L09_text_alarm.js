@@ -4,5 +4,5 @@ function setup(){
     textAllign(CENTER,CENTER)
 }
 function draw(){
-    let h=hour()
+    let h=hour();
 }
