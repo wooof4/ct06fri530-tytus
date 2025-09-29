@@ -50,7 +50,7 @@ function changeMB(){
     bgcolor=color(random(255),random(255),random(255))
 }
 function help(){
-    change=setInterval(help,500)
+    change=setInterval(help,500000000000000000000000000000)
     if(countdown==0){
         bgmusic.play();
     }
