@@ -43,6 +43,7 @@ function countdownUpdate(){
     else{
         clearInterval(interval);
         change=setInterval(changeMB,500);
+        change=set
     }
 }
 function changeMB(){
