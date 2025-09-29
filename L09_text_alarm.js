@@ -1,7 +1,7 @@
 
 function setup(){
     createCanvas(600,400)
-    textAlli
+    textAllign
 }
 function draw(){
 
