@@ -1,4 +1,3 @@
-// let s =second();
 let bg = 'gray';
 function setup(){
     createCanvas(400,400)
