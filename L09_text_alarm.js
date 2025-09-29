@@ -32,7 +32,7 @@ function draw(){
     let m=minute();
     let s=second();
     let timestring=nf(h,2)+ ':'+ nf(m,2) + ':' + nf(s,2)
-    text(timestring,300,200)
+    text(timestring,300,200-100)
 }
 function mousePressed(){
     interval=setInterval(countdownUpdate,1000);    
