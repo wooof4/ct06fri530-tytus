@@ -1,8 +1,8 @@
 
 function setup(){
     createCanvas(600,400)
-    textAllign(CustomElementRegistry,CENTER)
+    textAllign(CENTER,CENTER)
 }
 function draw(){
-
+    
 }
