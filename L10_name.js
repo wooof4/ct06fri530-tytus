@@ -7,7 +7,7 @@ function setup(){
     inputtext=createInput();
     inputtext.position(0,height);
     inputtext.input(user);
-    // usertext=inputtext;
+    
 }
 function draw(){
     background(220);
@@ -15,5 +15,5 @@ function draw(){
     text(usertext,width/2,height/2);
     }
 function user(){
-
+usertext=inputtext;
 }
