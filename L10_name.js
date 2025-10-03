@@ -8,5 +8,6 @@ function setup(){
 }
 function draw(){
     background(220)
-    usertext=
+    usertext=inputtext;
+    Text()
     }
