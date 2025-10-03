@@ -9,6 +9,6 @@ function draw(){
     input=createInput();
     inputtext.position(width/2,height/2);
      inputtext.input(user);
-    // usertext=inputtext;
+    usertext=inputtext;
     text(usertext,width/2,height/2);
     }
