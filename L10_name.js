@@ -25,7 +25,6 @@ function draw(){
 
 function user(){
     usertext=this.value();
-    
 }
 function muder(){
     nametext=this.value();
