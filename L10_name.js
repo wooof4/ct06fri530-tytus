@@ -5,10 +5,10 @@ function setup(){
     textSize(24)
     textAlign(CENTER,CENTER)
     inputtext=createInput();
-    inputtext.position(100,360);
+    inputtext.position(100,340);
     inputtext.input(user);
     name2=createInput();
-    name2.position(100,380);
+    name2.position(100,38);
     name2.input(muder)
 }
 
