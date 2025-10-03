@@ -17,6 +17,7 @@ function draw(){
 
     text(usertext,width/2,height/2);
     text(nametext,width/2,height/2+24)
+    text(hobby,width/2)
     }
 
 function user(){
