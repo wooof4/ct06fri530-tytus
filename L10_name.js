@@ -1,5 +1,5 @@
 let inputtext,name2;
-let usertext,nametext='user text here';
+let usertext='age';
 
 function setup(){
     createCanvas(600,400);
