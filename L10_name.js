@@ -9,7 +9,7 @@ function setup(){
     inputtext.position(0,height);
     inputtext.input(user);
     name2=createInput();
-    inputtext.position(0,height);
+    name2.position(0,height);
     inputtext.input(user);
 }
 
