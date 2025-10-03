@@ -1,4 +1,4 @@
-let inputtext,name2;
+let inputtext,name2,hobby2;
 let usertext='age',nametext='name';
 function setup(){
     createCanvas(600,400);
@@ -8,7 +8,7 @@ function setup(){
     inputtext.position(100,340);
     inputtext.input(user);
     name2=createInput();
-    name2.position(100,38);
+    name2.position(100,360);
     name2.input(muder)
 }
 
