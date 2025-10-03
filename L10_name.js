@@ -17,6 +17,6 @@ function draw(){
     text(usertext,width/2,height/2);
     }
 
-    function user(){
+function user(){
     usertext=this.value();
 }
