@@ -30,3 +30,6 @@ function user(){
 function muder(){
     nametext=this.value();
 }
+function kill(){
+    ho
+}
