@@ -30,5 +30,5 @@ function muder(){
     nametext=this.value();
 }
 function kill(){
-    hobby=this.value();
+    hobbytext=this.value();
 }
