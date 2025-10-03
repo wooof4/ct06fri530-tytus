@@ -5,7 +5,10 @@ function setup(){
     createCanvas(600,400);
     textSize(24)
     textAlign(CENTER,CENTER)
-    inputtext=input.text
+    inputtext=createInput();
+    inputtext.position(0,height);
+    inputtext.input(user);
+    
 }
 
 function draw(){
