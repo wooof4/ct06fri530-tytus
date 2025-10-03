@@ -54,6 +54,7 @@ function changeMB(){
 function help(){
     if(countdown==0){
         bgmusic.play();
+        clearInterval()
     }
 }
 function keyPressed(){
