@@ -11,7 +11,8 @@ function setup(){
     name2.position(100,360);
     name2.input(muder)
     hobby2=createInput();
-    hobby2.position
+    hobby2.position(100,380)
+    ho
 }
 
 function draw(){
