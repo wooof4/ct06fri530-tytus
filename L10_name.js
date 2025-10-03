@@ -8,7 +8,7 @@ function setup(){
     inputtext=createInput();
     inputtext.position(0,height);
     inputtext.input(user);
-    =createInput();
+    name2=createInput();
     inputtext.position(0,height);
     inputtext.input(user);
 }
