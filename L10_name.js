@@ -10,7 +10,7 @@ function setup(){
     inputtext.input(user);
     name2=createInput();
     name2.position(0,height);
-    inputtext.input(user);
+    name2.input(user);
 }
 
 function draw(){
@@ -21,5 +21,5 @@ function draw(){
 
 function user(){
     usertext=this.value();
-
+    
 }
