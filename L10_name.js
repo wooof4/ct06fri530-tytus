@@ -1,5 +1,5 @@
 let inputtext,name2,hobby2;
-let usertext='age',nametext='name',hobby='hobby';
+let usertext='age',nametext='name',hobbytext='hobby';
 function setup(){
     createCanvas(600,400);
     textSize(24)
@@ -20,7 +20,7 @@ function draw(){
 
     text(usertext,width/2,height/2-24);
     text(nametext,width/2,height/2)
-    text(hobby,width/2+24)
+    text(hobbytext,width/2+24)
     }
 
 function user(){
