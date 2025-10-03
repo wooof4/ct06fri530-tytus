@@ -12,3 +12,4 @@ function draw(){
     usertext=inputtext;
     text(usertext,width/2,height/2);
     }
+function user()
