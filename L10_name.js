@@ -10,7 +10,7 @@ function setup(){
     inputtext.input(user);
     name2=createInput();
     name2.position(100,380);
-    name2.input(user);
+    name2.input(muder)
 }
 
 function draw(){
