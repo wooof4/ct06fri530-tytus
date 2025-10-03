@@ -21,9 +21,9 @@ function draw(){
     }
 
 function user(){
-    usertext=this.value(inputtext);
+    usertext=this.value();
     
 }
 function muder(){
-    nametext=this.value(name2);
+    nametext=this.value();
 }
