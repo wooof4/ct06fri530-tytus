@@ -8,6 +8,6 @@ function setup(){
 }
 function draw(){
     background(220);
-    usertext=inputtext;
+    // usertext=inputtext;
     text(usertext,width/2,height/2);
     }
