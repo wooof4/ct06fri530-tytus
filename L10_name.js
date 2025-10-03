@@ -7,10 +7,10 @@ function setup(){
 }
 function draw(){
     background(220);
-    input=createInput();
-    inputtext.position(width/2,height/2);
-    inputtext.input(user);
-    usertext=inputtext;
+    // input=createInput();
+    // inputtext.position(width/2,height/2);
+    // inputtext.input(user);
+    // usertext=inputtext;
     text(usertext,width/2,height/2);
     }
 function user(){
