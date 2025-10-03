@@ -17,8 +17,9 @@ function setup(){
 
 function draw(){
     background(220);
+    textSize(24)
     text('name:',50,3)
-    textSize()
+    textSize(24)
     text(usertext,width/2,height/2);
     text(nametext,width/2,height/2-24)
     text(hobbytext,width/2,height/2+24)
