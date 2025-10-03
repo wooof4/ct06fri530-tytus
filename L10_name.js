@@ -22,5 +22,5 @@ function draw(){
 
 function user(){
     usertext=this.value();
-    nametext
+    nametext=this.value(name2);
 }
