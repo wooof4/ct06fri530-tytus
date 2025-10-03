@@ -10,6 +10,7 @@ function setup(){
     name2=createInput();
     name2.position(100,360);
     name2.input(muder)
+    ho
 }
 
 function draw(){
@@ -17,7 +18,7 @@ function draw(){
 
     text(usertext,width/2,height/2-24);
     text(nametext,width/2,height/2)
-    text(hobby,width/2)
+    text(hobby,width/2+24)
     }
 
 function user(){
