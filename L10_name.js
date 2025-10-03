@@ -12,7 +12,7 @@ function setup(){
     name2.input(muder)
     hobby2=createInput();
     hobby2.position(100,380)
-    ho
+    hobby2.imput
 }
 
 function draw(){
