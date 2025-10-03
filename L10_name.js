@@ -1,4 +1,4 @@
-let inputtext;
+let inputtext,name2;
 let usertext,name='user text here';
 
 function setup(){
