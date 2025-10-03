@@ -9,5 +9,5 @@ function setup(){
 function draw(){
     background(220)
     usertext=inputtext;
-    Text(usertext,width/2,height/2)
+    text(usertext,width/2,height/2)
     }
