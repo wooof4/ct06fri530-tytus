@@ -6,7 +6,7 @@ function setup(){
     textSize(24)
     textAlign(CENTER,CENTER)
     inputtext=createInput();
-    inputtext.position(0,height);
+    inputtext.position(0,380);
     inputtext.input(user);
     name2=createInput();
     name2.position(0,360);
