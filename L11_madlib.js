@@ -8,9 +8,9 @@ function setup(){
     adverb=createInput()
     place=createInput()
     noun.position(200,50)
-    verb.position()
-    adjective.position()
-    adverb.position()
+    verb.position(200,100)
+    adjective.position(200,150)
+    adverb.position(200,)
     place.posisition()
 }
 function draw(){
