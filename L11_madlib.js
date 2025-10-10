@@ -1,4 +1,4 @@
-let noun,verb,adjective,adverb,place
+let noun,verb,adjective,adverb,place,story;
 
 function setup(){
     createCanvas(400,600);
@@ -13,6 +13,8 @@ function setup(){
     adjective.position(200,150);
     adverb.position(200,200);
     place.position(200,250);
+    story=createButton('Gnerate Story');
+    story.position(200,300);
 }
 function draw(){
     background(220);
