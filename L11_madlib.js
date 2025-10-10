@@ -19,5 +19,6 @@ function draw(){
     textAlign(LEFT,TOP);
     textSize(18);
     text('noun:',150,50);
-    text('noun:',150,100); 
+    text('verb:',150,100); 
+    text('')
 }
