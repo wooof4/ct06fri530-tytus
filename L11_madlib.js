@@ -20,6 +20,7 @@ function draw(){
     background(220);
     textAlign(LEFT,TOP);
     textSize(18);
+    
     text('noun:',150,50);
     text('verb:',150,100); 
     text('adjective:',120,150)
