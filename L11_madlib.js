@@ -31,6 +31,9 @@ function draw(){
 }
 
 function kill(){
-    console.log('i will kill christian')
+    console.log('i')
     console.log(noun.value())
+    console.log(verb.value())
+    
+}
 }
