@@ -4,7 +4,7 @@ function setup(){
     createCanvas(400,600)
     noun=createInput()
     verb=createInput()
-    ad
+    adjective=create
 }
 function draw(){
     background(220)
