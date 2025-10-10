@@ -22,12 +22,13 @@ function setup(){
 function draw(){
     background(lgbtq.value())
     textSize(20)
-    text('name:',70,350)
+    fill('white')
+    text('name:',70,340)
     text('age:',70,370)
     text('')
     textSize(24)
  
-    fill('white')
+    
     rect(150,100,300,200,10)
     fill('black')
     text(usertext,width/2,height/2);
