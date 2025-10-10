@@ -20,7 +20,7 @@ function draw(){
     textSize(18);
     text('noun:',150,50);
     text('verb:',150,100); 
-    text('adjective:',150,150)
-    text('adverb:',150,200)
+    text('adjective:',125,150)
+    text('adverb:',100,200)
     text('place:',150,250)
 }
