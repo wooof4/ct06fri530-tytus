@@ -23,7 +23,7 @@ function draw(){
     background(lgbtq.value())
     textSize(20)
     text('name:',70,350)
-    
+    fill(0)
     text('')
     textSize(24)
     text(usertext,width/2,height/2);
