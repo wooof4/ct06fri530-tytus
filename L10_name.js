@@ -5,13 +5,15 @@ function setup(){
     createCanvas(600,400);
     textSize(24)
     textAlign(CENTER,CENTER)
-    lgbtq=createColorPicker();
+    
     inputtext=createInput();
     inputtext.position(100,360);
     inputtext.input(user);
     name2=createInput();
     name2.position(100,340);
     name2.input(muder)
+    lgbtq=createColorPicker();
+    
     // hobby2=createInput();
     // hobby2.position(100,380);
     // hobby2.input(kill);
