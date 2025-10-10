@@ -9,7 +9,7 @@ function setup(){
     place=createInput()
     noun.position()
     verb.position
-    adjective
+    adjective.pos
 }
 function draw(){
     background(220)
