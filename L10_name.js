@@ -21,6 +21,7 @@ function setup(){
 
 function draw(){
     background(220);
+    background(lgbtq)
     textSize(20)
     text('name:',70,350)
     text('')
