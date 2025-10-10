@@ -15,5 +15,5 @@ function setup(){
 }
 function draw(){
     background(220)
-    Text('noun:',)
+    Text('noun:',100,60)
 }
