@@ -29,3 +29,7 @@ function draw(){
     text('adverb:',135,200)
     text('place:',150,250)
 }
+
+function kill(){
+    
+}
