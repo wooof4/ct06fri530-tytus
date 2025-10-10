@@ -31,5 +31,5 @@ function draw(){
 }
 
 function kill(){
-    
+    console.log('i will kill christian')
 }
