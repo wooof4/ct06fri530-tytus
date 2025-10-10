@@ -13,7 +13,7 @@ function setup(){
     name2.position(100,330);
     name2.input(muder)
     lgbtq=createColorPicker();
-    lgbtq.position(100,)
+    lgbtq.position(100,370)
     // hobby2=createInput();
     // hobby2.position(100,380);
     // hobby2.input(kill);
