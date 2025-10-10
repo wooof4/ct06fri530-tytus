@@ -7,10 +7,10 @@ function setup(){
     textAlign(CENTER,CENTER)
     
     inputtext=createInput();
-    inputtext.position(100,360);
+    inputtext.position(100,350);
     inputtext.input(user);
     name2=createInput();
-    name2.position(100,340);
+    name2.position(100,330);
     name2.input(muder)
     lgbtq=createColorPicker();
     lgbtq.position(0,0)
@@ -24,7 +24,7 @@ function draw(){
     textSize(20)
     fill('white')
     text('name:',70,340)
-    text('age:',70,370)
+    text('age:',70,360)
     text('')
     textSize(24)
  
