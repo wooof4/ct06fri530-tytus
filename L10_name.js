@@ -26,6 +26,7 @@ function draw(){
     text('name:',70,340)
     text('age:',70,360)
     text('')
+    text('')
     textSize(24)
  
     
