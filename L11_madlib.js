@@ -20,5 +20,5 @@ function draw(){
     textSize(18);
     text('noun:',150,50);
     text('verb:',150,100); 
-    text('')
+    text('adjective:',150,150)
 }
