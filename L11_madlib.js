@@ -22,4 +22,5 @@ function draw(){
     text('verb:',150,100); 
     text('adjective:',150,150)
     text('adverb',150,200)
+    text('place:')
 }
