@@ -20,7 +20,7 @@ function setup(){
 }
 
 function draw(){
-    background(lgbtq)
+    background(220)
     textSize(20)
     text('name:',70,350)
     text('')
