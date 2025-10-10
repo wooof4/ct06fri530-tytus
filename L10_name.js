@@ -10,9 +10,9 @@ function setup(){
     name2=createInput();
     name2.position(100,340);
     name2.input(muder)
-    hobby2=createInput();
-    hobby2.position(100,380);
-    hobby2.input(kill);
+    // hobby2=createInput();
+    // hobby2.position(100,380);
+    // hobby2.input(kill);
 }
 
 function draw(){
@@ -32,6 +32,6 @@ function user(){
 function muder(){
     nametext=this.value();
 }
-function kill(){
-    hobbytext=this.value();
-}
+// function kill(){
+//     hobbytext=this.value();
+// }
