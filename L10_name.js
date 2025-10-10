@@ -25,10 +25,11 @@ function draw(){
     text('name:',70,350)
     text('')
     textSize(24)
-    text(usertext,width/2,height/2);
-    text(nametext,width/2,height/2-24)
+ 
     fill('white')
     rect(200,105,250,150)
+   text(usertext,width/2,height/2);
+    text(nametext,width/2,height/2-24)
     // text(hobbytext,width/2,height/2+24)
     }
 
