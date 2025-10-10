@@ -27,7 +27,7 @@ function draw(){
     textSize(24)
  
     fill('white')
-    rect(200,105,250,150)
+    rect(200,50,250,150)
     text(usertext,width/2,height/2);
     text(nametext,width/2,height/2-24)
     // text(hobbytext,width/2,height/2+24)
