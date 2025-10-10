@@ -35,5 +35,6 @@ function kill(){
     console.log(noun.value())
     console.log(verb.value())
     console.log(adjective.value())
-    console.log(noun.value())
+    console.log(adverb.value())
+    console.log(place.value())
 }
