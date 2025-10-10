@@ -1,4 +1,5 @@
-let noun,verb,adjective,adverb,touchingplace
+let noun,verb,adjective,adverb,place
+
 function setup(){
     createCanvas(400,600)
 }
