@@ -16,6 +16,7 @@ function setup(){
 }
 function draw(){
     background(220);
+    TextTrack
     text.size(18);
     text('noun:',100,60);
 }
