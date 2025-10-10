@@ -13,6 +13,7 @@ function setup(){
     adjective.position(200,150);
     adverb.position(200,200);
     place.position(200,250);
+    
     story=createButton('Generate Story');
     story.position(200,300);
 }
