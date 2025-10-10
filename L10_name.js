@@ -5,6 +5,7 @@ function setup(){
     createCanvas(600,400);
     textSize(24)
     textAlign(CENTER,CENTER)
+    lgbtq=
     inputtext=createInput();
     inputtext.position(100,360);
     inputtext.input(user);
