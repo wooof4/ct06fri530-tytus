@@ -7,7 +7,7 @@ function setup(){
     adjective=createInput()
     adverb=createInput()
     place=createInput()
-    noun.position()
+    noun.position(200,50)
     verb.position()
     adjective.position()
     adverb.position()
