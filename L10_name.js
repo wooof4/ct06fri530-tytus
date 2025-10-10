@@ -1,6 +1,6 @@
 let inputtext,name2,hobby2;
 let usertext='age',nametext='name',hobbytext='hobby';
-let lgbtq;
+let lgbtq=220;
 function setup(){
     createCanvas(600,400);
     textSize(24)
