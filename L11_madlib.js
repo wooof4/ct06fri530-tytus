@@ -21,6 +21,6 @@ function draw(){
     text('noun:',150,50);
     text('verb:',150,100); 
     text('adjective:',150,150)
-    text('adverb',150,200)
-    text('place:')
+    text('adverb:',150,200)
+    text('place:',150,250)
 }
