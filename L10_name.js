@@ -23,7 +23,7 @@ function draw(){
     background(lgbtq.value())
     textSize(20)
     text('name:',70,350)
-    text('age:')
+    text('age:',70,)
     text('')
     textSize(24)
  
