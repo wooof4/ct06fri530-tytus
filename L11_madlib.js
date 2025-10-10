@@ -16,6 +16,6 @@ function setup(){
 }
 function draw(){
     background(220);
-    
+    Text.size();
     Text('noun:',100,60);
 }
