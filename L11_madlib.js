@@ -16,7 +16,7 @@ function setup(){
 
     story=createButton('Generate Story');
     story.position(200,300);
-    story.mousepressed(kill)
+    story.mousePressed(kill)
 }
 function draw(){
     background(220);
