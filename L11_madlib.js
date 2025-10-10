@@ -10,7 +10,8 @@ function setup(){
     noun.position()
     verb.position()
     adjective.position()
-    
+    adverb.position()
+    place.posisition()
 }
 function draw(){
     background(220)
