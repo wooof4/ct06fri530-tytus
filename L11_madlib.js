@@ -34,6 +34,6 @@ function kill(){
     console.log('i')
     console.log(noun.value())
     console.log(verb.value())
+    console.log(adjective.value())
     console.log(noun.value())
-
 }
