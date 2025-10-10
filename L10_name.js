@@ -25,7 +25,7 @@ function draw(){
     fill('white')
     text('name:',70,340)
     text('age:',70,360)
-    text('')
+    text('color')
     text('')
     textSize(24)
  
