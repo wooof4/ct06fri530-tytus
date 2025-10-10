@@ -6,6 +6,7 @@ function setup(){
     verb=createInput()
     adjective=createInput()
     adverb=createInput()
+    place=create
 }
 function draw(){
     background(220)
