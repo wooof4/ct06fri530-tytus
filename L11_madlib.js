@@ -6,7 +6,7 @@ function setup(){
     verb = createInput();
     adjective = createInput();
     adverb = createInput();
-    place=createInput();
+    place = createInput();
     
     noun.position(200,50);
     verb.position(200,100);
@@ -16,5 +16,6 @@ function setup(){
 }
 function draw(){
     background(220);
+    
     Text('noun:',100,60);
 }
