@@ -18,5 +18,5 @@ function draw(){
     background(220);
     textAlign(LEFT,TOP);
     textSize(18);
-    text('noun:',100,60);
+    text('noun:',150,50);
 }
