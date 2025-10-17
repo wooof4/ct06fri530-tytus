@@ -1,5 +1,5 @@
 for(let i = 34; i<57; i++){
-    favfood
+    favfood(i)
     console.log(i)
 }
 function setup(){
