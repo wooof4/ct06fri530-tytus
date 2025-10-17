@@ -1,5 +1,5 @@
 favfood=['ramen','dog','cat','plate','chair','table','wall','block']
-for(let i = 0; i<57; i++){
+for(let i = 0; i<9; i++){
     favfood(i)
     console.log(i)
 }
