@@ -1,5 +1,6 @@
 favfood=['ramen','dog','cat','plate','chair','table','wall','block']
-
+let x=300
+let y=2
 function setup(){
     createCanvas(600,400)
     background(220)
