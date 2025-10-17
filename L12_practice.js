@@ -1,7 +1,7 @@
 favfood=['ramen','dog','cat','plate','chair','table','wall','block']
 let x=300;
 let y=200;
-let xchange
+let xchange=10;
 function setup(){
     createCanvas(600,400)
     
@@ -13,7 +13,7 @@ function draw(){
     //     text(favfood[i],250,50+32*i)
     //     }
     circle(x,y,100)
-    x=x+10
+    x=x+xchannge
     if (x===600-100){
         
     }
