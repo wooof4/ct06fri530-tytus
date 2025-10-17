@@ -13,5 +13,7 @@ function draw(){
     //     }
     circle(x,y,100)
     x=x+10
-    if (x===600-100)
+    if (x===600-100){
+        x=!x
+    }
     }
