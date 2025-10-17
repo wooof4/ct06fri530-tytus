@@ -18,5 +18,5 @@ function draw(){
     }
     
     if (x===600-50){
-    xchange=!x
+        xchange=!x
     }
