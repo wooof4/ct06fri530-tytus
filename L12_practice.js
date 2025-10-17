@@ -11,6 +11,6 @@ function draw(){
     // for(let i = 0; i<8; i++){
     //     text(favfood[i],250,50+32*i)
     //     }
-    circle(x,,100y)
+    circle(x,y,100)
     x=x+10
     }
