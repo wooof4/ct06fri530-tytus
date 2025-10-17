@@ -1,7 +1,6 @@
 favfood=['ramen','dog','cat','plate','chair','table','wall','block']
 for(let i = 0; i<9; i++){
-    favfood(i)
-    console.log(i)
+    console.log(fac\v)
 }
 function setup(){
     createCanvas(600,400)
