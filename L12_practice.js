@@ -13,7 +13,7 @@ function draw(){
     //     text(favfood[i],250,50+32*i)
     //     }
     circle(x,y,100)
-    x=x+xchannge
+    x=x+xchange
     if (x===600-100){
         xchange=!x
     }
