@@ -1,6 +1,7 @@
 favfood=['ramen','dog','cat','plate','chair','table','wall','block']
 let x=300;
 let y=200;
+let xchange
 function setup(){
     createCanvas(600,400)
     
