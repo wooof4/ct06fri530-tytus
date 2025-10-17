@@ -14,10 +14,10 @@ function draw(){
     //     }
     circle(x,y,100)
     x=x+xchange
-    if (x===600-50){
+    if (x<600-50){
         xchange=xchange*-1;
     }
-       if (x===0+50){
+       if (x>0+50){
         xchange=xchange*-1;
     } 
 }
