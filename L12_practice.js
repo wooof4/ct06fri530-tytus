@@ -6,6 +6,6 @@ function setup(){
 }
 function draw(){
     for(let i = 0; i<8; i++){
-        Text(favfood[i])
+        text(favfood[i],)
         }
     }
