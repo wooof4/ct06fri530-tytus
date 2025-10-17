@@ -6,7 +6,8 @@ function setup(){
     textSize(32)
 }
 function draw(){
-    for(let i = 0; i<8; i++){
-        text(favfood[i],250,50+32*i)
-        }
+    // for(let i = 0; i<8; i++){
+    //     text(favfood[i],250,50+32*i)
+    //     }
+    circe
     }
