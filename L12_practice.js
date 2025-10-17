@@ -1,7 +1,7 @@
 favfood=['ramen','dog','cat','plate','chair','table','wall','block']
 let x=300;
 let y=200;
-let xchange=100;
+let xchange=1000;
 function setup(){
     createCanvas(600,400)
     
@@ -17,8 +17,8 @@ function draw(){
     if (x<600-50){
         xchange=xchange*-1;
     }
-       if (x>0+50){
-        xchange=xchange*-1;
-    } 
+    // if (x>0+50){
+    //     xchange=xchange*-1;
+    // } 
 }
     
