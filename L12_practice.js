@@ -11,4 +11,5 @@ function draw(){
     //     text(favfood[i],250,50+32*i)
     //     }
     circle(100,300,200)
+    
     }
