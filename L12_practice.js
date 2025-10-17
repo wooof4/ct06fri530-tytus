@@ -17,5 +17,8 @@ function draw(){
     if (x===600-50){
         xchange=xchange*-1;
     }
+       if (x===0+50){
+        xchange=xchange*-1;
+    } 
 }
     
