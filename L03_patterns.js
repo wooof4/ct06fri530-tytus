@@ -19,11 +19,7 @@ for(let b = 0;b <256; b++){
   fill(0+b,0,255-b)
 circle(5100+10*b,400,50)
 }
-//let numsquares = 9
-//let count = 0;
-//let boxwidth = width / numsquares
-//for (let i =0;i<numsquares;i++){
-//for (let j=0;j<numsquares; j++){
+
   if (count%2==0){
     fill(0)
   }
